@@ -1,7 +1,7 @@
-![overview](vlsm_heatmap.png)
-
-### Code for Atlas based Analysis and Traning of Segmentation Networks
+## Code for Atlas based Analysis and Traning of Segmentation Networks
 Source Code for Figures and trainining of segmentation networks.
+
+![overview](vlsm_heatmap.png)
 
 #### Registration of Toolbox Results to MMNI T1 1mm and 0.5mm
 
