@@ -1,6 +1,7 @@
 Label,Name,Hemisphere,Abbreviation
-1,anterior commissure ,right,R_AC
-2,anterior commissure ,left,L_AC
+0,not in atlas,both,RL_BCK
+1,anterior commissure,right,R_AC
+2,anterior commissure,left,L_AC
 3,diagonal band of Broca,right,R_dB
 4,diagonal band of Broca,left,L_dB
 5,fornix,right,R_FX
@@ -13,8 +14,8 @@ Label,Name,Hemisphere,Abbreviation
 14,subthalamic nucleus,left,L_STN
 15,substantia nigra,right,R_SN
 16,substantia nigra,left,L_SN
-17,red nucleus ,right,R_RN
-18,red nucleus ,left,L_RN
+17,red nucleus,right,R_RN
+18,red nucleus,left,L_RN
 19,medial preoptic nucleus,right,R_MPO
 20,medial preoptic nucleus,left,L_MPO
 21,paraventricular nucleus,right,R_Pa
@@ -25,8 +26,8 @@ Label,Name,Hemisphere,Abbreviation
 26,lateral hypothalamus,left,L_LH
 27,ventromedial hypothalamus,right,R_VM
 28,ventromedial hypothalamus,left,L_VM
-29,arcuate hypothalamic nucleus,right,R_AN 
-30,arcuate hypothalamic nucleus,left,L_AN 
+29,arcuate hypothalamic nucleus,right,R_AN
+30,arcuate hypothalamic nucleus,left,L_AN
 31,periventricular hypothalamic nucleus,right,R_Pe
 32,periventricular hypothalamic nucleus,left,L_Pe
 33,bed nucleus of the stria terminalis,right,R_BNST

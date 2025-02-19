@@ -116,8 +116,7 @@ def compute_stats_atlas(lesion_mask_path, warped_atlas_mask_path, output_file, a
 
     else:
         raise Exception("Something went wrong!")
-
-
+    
     results = []
 
     for region_id, region_name  in zip(atlas_labels, [atlas_labels_names[label] for label in atlas_labels]):

@@ -1,1107 +1,1107 @@
 atlas_label,n_label_voxels,label_volume [mm³],n_lesion_voxels,lesion_volume [mm³],lesion_volume [percent]
-Unknown/Background,5353072,5353072,0,0,0
-Left CerebellumPosterior LobeInferior Semi-Lunar LobuleGray Matter,13612,13612,0,0,0
-Right CerebellumPosterior LobeInferior Semi-Lunar LobuleGray Matter,15446,15446,0,0,0
-Left CerebellumPosterior LobeCerebellar TonsilGray Matter,18262,18262,0,0,0
-Right CerebellumPosterior LobeCerebellar TonsilGray Matter,16288,16288,0,0,0
-Left BrainstemMedulla,4234,4234,0,0,0
-Right BrainstemMedulla,3417,3417,0,0,0
-Inferior Temporal Gyrus,307,307,0,0,0
-Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 20,3770,3770,0,0,0
-Left CerebrumTemporal LobeInferior Temporal Gyrus,2736,2736,0,0,0
-Left CerebrumTemporal Lobe,3456,3456,0,0,0
-Right CerebrumTemporal Lobe,4807,4807,0,0,0
-Right CerebrumTemporal LobeInferior Temporal Gyrus,5480,5480,0,0,0
-Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 20,6028,6028,0,0,0
-Left CerebrumTemporal LobeInferior Temporal GyrusWhite Matter,6521,6521,0,0,0
-Left CerebrumLimbic LobeInferior Temporal GyrusGray MatterBrodmann area 20,4687,4687,0,0,0
-Left CerebrumLimbic LobeUncusGray MatterBrodmann area 20,14726,14726,0,0,0
-Left CerebrumLimbic LobeUncus,5603,5603,0,0,0
-Right CerebrumLimbic LobeUncusGray MatterBrodmann area 20,12206,12206,0,0,0
-Right CerebrumLimbic LobeInferior Temporal GyrusGray MatterBrodmann area 20,3414,3414,0,0,0
-Right CerebrumTemporal LobeInferior Temporal GyrusWhite Matter,4517,4517,0,0,0
-Left CerebrumLimbic Lobe,1305,1305,0,0,0
-Right CerebrumLimbic Lobe,1540,1540,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 20,667,667,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusWhite Matter,23298,23298,0,0,0
-Left CerebrumLimbic LobeUncusWhite Matter,4072,4072,0,0,0
-Right CerebrumLimbic LobeGray MatterBrodmann area 20,507,507,0,0,0
-Right CerebrumLimbic LobeUncusWhite Matter,4793,4793,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusWhite Matter,38568,38568,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 20,762,762,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal Gyrus,18818,18818,0,0,0
-Right CerebrumLimbic LobeUncus,848,848,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal Gyrus,3292,3292,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 38,435,435,0,0,0
-Left CerebrumLimbic LobeUncusGray MatterBrodmann area 38,1551,1551,0,0,0
-Right CerebrumLimbic LobeUncusGray MatterBrodmann area 38,2091,2091,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 38,513,513,0,0,0
-Left CerebrumLimbic LobeMiddle Temporal GyrusWhite Matter,4799,4799,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 38,5930,5930,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusWhite Matter,21170,21170,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal Gyrus,9284,9284,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 38,5837,5837,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusWhite Matter,20680,20680,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal Gyrus,5016,5016,0,0,0
-Right CerebrumTemporal LobeGray MatterBrodmann area 38,1795,1795,0,0,0
-Left CerebrumTemporal LobeGray MatterBrodmann area 38,63,63,0,0,0
-Right CerebrumFrontal LobeInferior Temporal GyrusGray MatterBrodmann area 20,4369,4369,0,0,0
-Right CerebrumInferior Temporal Gyrus,2622,2622,0,0,0
-Right Cerebrum,3925,3925,0,0,0
-Left CerebrumLimbic LobeInferior Temporal GyrusWhite Matter,658,658,0,0,0
-Right CerebrumLimbic LobeInferior Temporal GyrusWhite Matter,4852,4852,0,0,0
-Left CerebrumTemporal LobeSub-GyralWhite Matter,31501,31501,0,0,0
-Right CerebrumTemporal LobeSub-GyralWhite Matter,40197,40197,0,0,0
-Left CerebrumLimbic LobeGray MatterBrodmann area 20,17835,17835,0,0,0
-Middle Temporal Gyrus,7421,7421,0,0,0
-Right CerebrumLimbic LobeSub-GyralWhite Matter,2806,2806,0,0,0
-Left CerebrumLimbic LobeSuperior Temporal GyrusWhite Matter,1341,1341,0,0,0
-Right CerebrumLimbic LobeSuperior Temporal GyrusWhite Matter,534,534,0,0,0
-Right CerebrumUncus,120,120,0,0,0
-Left CerebrumLimbic LobeSuperior Temporal GyrusGray MatterBrodmann area 38,3952,3952,0,0,0
-Right CerebrumLimbic LobeSuperior Temporal GyrusGray MatterBrodmann area 38,4463,4463,0,0,0
-Left CerebellumPosterior LobePyramisGray Matter,7620,7620,0,0,0
-Right CerebellumPosterior LobePyramisGray Matter,7582,7582,0,0,0
-Left CerebellumPosterior LobeUvulaGray Matter,11442,11442,0,0,0
-Right CerebellumPosterior LobeUvulaGray Matter,11083,11083,0,0,0
-Right CerebellumGray Matter,2506,2506,0,0,0
-Left CerebellumGray Matter,2517,2517,0,0,0
-Left CerebellumPosterior LobeUvula of VermisGray Matter,1411,1411,0,0,0
-Right CerebellumPosterior LobeUvula of VermisGray Matter,1269,1269,0,0,0
-Right CerebellumSub-lobarFourth VentricleCerebro-Spinal Fluid,826,826,0,0,0
-Left CerebellumSub-lobarFourth VentricleCerebro-Spinal Fluid,1241,1241,0,0,0
-Left BrainstemPons,9727,9727,0,0,0
-Right BrainstemPons,11043,11043,0,0,0
-Limbic LobeUncus,567,567,0,0,0
-Left Cerebrum,2413,2413,0,0,0
-Left CerebrumLimbic LobeUncusGray MatterBrodmann area 36,3813,3813,0,0,0
-Right CerebrumLimbic LobeUncusGray MatterBrodmann area 36,3713,3713,0,0,0
-Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 21,934,934,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 21,8345,8345,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 21,8101,8101,0,0,0
-Left CerebellumPosterior LobeTuberGray Matter,11417,11417,0,0,0
-Right CerebellumPosterior LobeTuberGray Matter,11922,11922,0,0,0
-Left CerebellumPosterior LobePyramis of VermisGray Matter,1181,1181,0,0,0
-Right CerebellumPosterior LobePyramis of VermisGray Matter,801,801,0,0,0
-Left CerebellumAnterior LobeNoduleGray Matter,1324,1324,0,0,0
-Left CerebellumAnterior LobeGray Matter,4287,4287,1,1,0.023326335432704
-Right CerebellumAnterior LobeNoduleGray Matter,1726,1726,0,0,0
-Right CerebellumAnterior LobeGray Matter,4438,4438,0,0,0
-Left CerebellumAnterior LobeCulmenGray Matter,22971,22971,0,0,0
-Right CerebellumAnterior LobeCulmenGray Matter,21586,21586,0,0,0
-Temporal Lobe,2516,2516,0,0,0
-Temporal LobeInferior Temporal Gyrus,40060,40060,57,57,0.142286570144783
-Right CerebrumLimbic LobeInferior Temporal Gyrus,52381,52381,0,0,0
-Left CerebrumLimbic LobeInferior Temporal Gyrus,2816,2816,0,0,0
-Left CerebrumLimbic LobeUncusGray MatterBrodmann area 28,4119,4119,0,0,0
-Right CerebrumLimbic LobeUncusGray MatterBrodmann area 28,2438,2438,0,0,0
-Left CerebrumLimbic LobeSub-GyralWhite Matter,16720,16720,0,0,0
-Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 21,464,464,0,0,0
-Left CerebrumInferior Temporal Gyrus,560,560,1,1,0.178571428571429
-Left CerebrumMiddle Temporal Gyrus,235,235,0,0,0
-Left CerebrumSuperior Temporal Gyrus,768,768,0,0,0
-Left CerebrumSuperior Temporal GyrusGray MatterBrodmann area 38,595,595,0,0,0
-Left CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 11,2301,2301,0,0,0
-Right CerebrumOrbital GyrusGray MatterBrodmann area 11,1105,1105,1,1,0.090497737556561
-Frontal LobeOrbital Gyrus,1011,1011,0,0,0
-Left CerebrumFrontal LobeOrbital Gyrus,838,838,0,0,0
-Left CerebrumFrontal Lobe,2032,2032,0,0,0
-Inter-Hemispheric,25551,25551,2,2,0.007827482290321
-Right CerebrumFrontal Lobe,1698,1698,0,0,0
-Right CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 11,2151,2151,0,0,0
-Right CerebrumFrontal LobeOrbital Gyrus,12492,12492,0,0,0
-Orbital Gyrus,14727,14727,0,0,0
-Left CerebrumFrontal LobeOrbital GyrusWhite Matter,12347,12347,0,0,0
-Right CerebrumFrontal LobeOrbital GyrusWhite Matter,10927,10927,0,0,0
-Left CerebellumPosterior LobeTuber of VermisGray Matter,377,377,0,0,0
-Right CerebellumPosterior LobeTuber of VermisGray Matter,7049,7049,0,0,0
-Left CerebellumAnterior LobePyramisGray Matter,2064,2064,0,0,0
-Right CerebellumAnterior LobePyramisGray Matter,2353,2353,0,0,0
-Right CerebellumAnterior LobeGray MatterDentate,8140,8140,0,0,0
-Left CerebellumAnterior LobeGray MatterDentate,3203,3203,0,0,0
-Left CerebellumPosterior LobeCulmenGray Matter,353,353,0,0,0
-Left CerebrumTemporal LobeFusiform Gyrus,2915,2915,0,0,0
-Right CerebrumTemporal LobeFusiform Gyrus,1288,1288,0,0,0
-Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 20,11779,11779,0,0,0
-Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 20,6264,6264,0,0,0
-Left CerebrumLimbic LobeParahippocampal Gyrus,3818,3818,0,0,0
-Limbic LobeParahippocampal Gyrus,7863,7863,0,0,0
-Right CerebrumLimbic LobeParahippocampal Gyrus,5632,5632,0,0,0
-Left CerebrumTemporal LobeFusiform GyrusWhite Matter,7911,7911,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 36,1672,1672,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 36,1662,1662,0,0,0
-Right CerebrumTemporal LobeFusiform GyrusWhite Matter,6203,6203,0,0,0
-Right CerebrumLimbic LobeFusiform Gyrus,2677,2677,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusWhite Matter,8953,8953,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusWhite Matter,12297,12297,0,0,0
-Right CerebrumLimbic LobeFusiform GyrusGray MatterBrodmann area 20,3735,3735,0,0,0
-Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 36,376,376,0,0,0
-Left CerebrumLimbic LobeFusiform GyrusWhite Matter,63,63,0,0,0
-Right CerebrumLimbic LobeFusiform GyrusWhite Matter,1228,1228,0,0,0
-Fusiform Gyrus,3568,3568,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 35,3994,3994,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 35,2018,2018,0,0,0
-Left CerebrumFrontal LobeRectal GyrusGray MatterBrodmann area 11,1601,1601,0,0,0
-Left CerebrumFrontal LobeRectal Gyrus,367,367,0,0,0
-Right CerebrumFrontal LobeRectal Gyrus,3357,3357,0,0,0
-Right CerebrumFrontal LobeRectal GyrusGray MatterBrodmann area 11,5635,5635,0,0,0
-Left CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 47,3506,3506,0,0,0
-Right CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 47,3446,3446,0,0,0
-Left CerebrumFrontal LobeRectal GyrusWhite Matter,4762,4762,0,0,0
-Right CerebrumFrontal LobeRectal GyrusWhite Matter,1638,1638,0,0,0
-Inter-HemisphericRectal Gyrus,7889,7889,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal Gyrus,6232,6232,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 11,10519,10519,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 11,21156,21156,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal Gyrus,25704,25704,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal GyrusWhite Matter,30219,30219,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal GyrusWhite Matter,31155,31155,0,0,0
-Left CerebellumPosterior LobeDecliveGray Matter,23844,23844,0,0,0
-Right CerebellumPosterior LobeDecliveGray Matter,18667,18667,0,0,0
-Left CerebellumPosterior LobeDeclive of VermisGray Matter,2894,2894,0,0,0
-Right CerebellumPosterior LobeDeclive of VermisGray Matter,3220,3220,0,0,0
-Left CerebellumPosterior LobeGray MatterDentate,6461,6461,0,0,0
-Left CerebellumPosterior LobeFastigiumGray Matter,6744,6744,0,0,0
-Right CerebellumAnterior LobeFastigiumGray Matter,1637,1637,0,0,0
-Right CerebellumPosterior LobeGray MatterDentate,319,319,0,0,0
-Left CerebellumAnterior LobeFastigiumGray Matter,582,582,0,0,0
-Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 36,1179,1179,0,0,0
-Right CerebrumFusiform GyrusGray MatterBrodmann area 20,4626,4626,0,0,0
-Temporal LobeFusiform Gyrus,4332,4332,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 28,1538,1538,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 28,8906,8906,0,0,0
-Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 20,8306,8306,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 20,560,560,0,0,0
-Left CerebrumSub-lobarLateral VentricleCerebro-Spinal Fluid,30837,30837,0,0,0
-Right CerebrumSub-lobarLateral VentricleCerebro-Spinal Fluid,14849,14849,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterHippocampus,21007,21007,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterHippocampus,4862,4862,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 34,3501,3501,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 34,3197,3197,0,0,0
-Left CerebrumLimbic LobeUncusGray MatterBrodmann area 34,579,579,0,0,0
-Right CerebrumLimbic LobeUncusGray MatterBrodmann area 34,3847,3847,0,0,0
-Left CerebrumLimbic LobeUncusGray MatterAmygdala,3186,3186,0,0,0
-Right CerebrumLimbic LobeUncusGray MatterAmygdala,314,314,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterAmygdala,10426,10426,0,0,0
-Inferior Frontal Gyrus,684,684,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 47,18824,18824,0,0,0
-Left CerebrumFrontal LobeInferior Frontal Gyrus,11227,11227,0,0,0
-Right CerebrumFrontal LobeInferior Frontal Gyrus,5769,5769,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 47,13473,13473,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusWhite Matter,19539,19539,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusWhite Matter,24367,24367,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 11,10132,10132,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 11,4796,4796,0,0,0
-Left CerebrumFrontal LobeSub-GyralWhite Matter,54252,54252,0,0,0
-Right CerebrumFrontal LobeSub-GyralWhite Matter,54729,54729,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusWhite Matter,33704,33704,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusWhite Matter,34595,34595,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 11,5527,5527,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 11,4202,4202,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal Gyrus,7955,7955,0,0,0
-Right CerebrumOrbital Gyrus,9928,9928,0,0,0
-Right CerebrumSuperior Frontal Gyrus,790,790,0,0,0
-Left CerebrumOccipital LobeFusiform Gyrus,2130,2130,0,0,0
-Left CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 18,573,573,0,0,0
-Right CerebrumOccipital LobeFusiform Gyrus,10471,10471,0,0,0
-Right CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 18,1289,1289,5,5,0.387897595034911
-Left CerebrumOccipital LobeFusiform GyrusWhite Matter,2580,2580,0,0,0
-Right CerebrumOccipital LobeFusiform GyrusWhite Matter,2755,2755,0,0,0
-Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 37,4871,4871,0,0,0
-Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 37,4354,4354,0,0,0
-Right CerebrumFusiform Gyrus,129,129,0,0,0
-Left CerebellumAnterior LobeCerebellar LingualGray Matter,853,853,0,0,0
-Right CerebellumAnterior LobeCerebellar LingualGray Matter,1053,1053,0,0,0
-Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 37,2380,2380,0,0,0
-Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 37,2409,2409,0,0,0
-Left BrainstemMidbrain,8689,8689,14,14,0.161123259293359
-Right BrainstemMidbrain,8800,8800,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 20,3313,3313,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 20,7540,7540,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterAmygdala,4995,4995,0,0,0
-White Matter,3354,3354,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 38,1917,1917,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 38,5276,5276,0,0,0
-Left CerebrumFrontal LobeMedial Frontal Gyrus,3887,3887,0,0,0
-Right CerebrumFrontal LobeMedial Frontal Gyrus,4081,4081,0,0,0
-Left CerebrumFrontal LobeSuperior Temporal Gyrus,162,162,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 25,761,761,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 25,1469,1469,0,0,0
-Right CerebrumFrontal LobeSuperior Temporal Gyrus,831,831,0,0,0
-Right CerebrumTemporal LobeInferior Frontal Gyrus,11357,11357,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusWhite Matter,29103,29103,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusWhite Matter,18142,18142,0,0,0
-Left CerebrumTemporal LobeInferior Frontal Gyrus,405,405,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal Gyrus,5743,5743,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 25,648,648,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 11,1325,1325,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 11,2737,2737,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 25,1317,1317,0,0,0
-Left CerebrumOccipital LobeLingual Gyrus,2574,2574,0,0,0
-Lingual Gyrus,312,312,0,0,0
-Occipital Lobe,604,604,0,0,0
-Occipital LobeLingual Gyrus,4536,4536,0,0,0
-Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 17,1064,1064,0,0,0
-Inter-HemisphericOccipital LobeLingual Gyrus,4577,4577,0,0,0
-Right CerebrumOccipital LobeLingual Gyrus,2711,2711,0,0,0
-Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 17,1891,1891,1,1,0.052882072977261
-Left CerebrumOccipital Lobe,1250,1250,0,0,0
-Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 18,4531,4531,0,0,0
-Right CerebrumOccipital Lobe,1009,1009,2,2,0.198216055500496
-Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 18,4080,4080,0,0,0
-Left CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 18,2615,2615,0,0,0
-Left CerebrumOccipital LobeInferior Occipital Gyrus,1110,1110,0,0,0
-Left CerebrumOccipital LobeLingual GyrusWhite Matter,17870,17870,0,0,0
-Right CerebrumOccipital LobeLingual GyrusWhite Matter,11587,11587,0,0,0
-Right CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 18,11362,11362,0,0,0
-Left CerebrumOccipital LobeInferior Occipital GyrusWhite Matter,8619,8619,0,0,0
-Right CerebrumOccipital LobeInferior Occipital GyrusWhite Matter,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Occipital Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Inferior Occipital Gyrus,0,0,0,0,0
-Left CerebrumInferior Occipital Gyrus,0,0,0,0,0
-Right CerebrumInferior Occipital Gyrus,0,0,0,0,0
-Right CerebrumOccipital LobeGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumOccipital LobeGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumTemporal LobeGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumTemporal LobeGray MatterBrodmann area 37,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumLimbic LobeGray MatterBrodmann area 35,0,0,0,0,0
-White MatterOptic Tract,0,0,0,0,0
-Gray MatterHypothalamus,0,0,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 21,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 21,0,0,0,0,0
-Left CerebrumFrontal LobeSubcallosal Gyrus,0,0,0,0,0
-Right CerebrumFrontal LobeSubcallosal Gyrus,0,0,0,0,0
-Left CerebrumLimbic LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0,0,0,0
-Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0,0,0,0
-Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 25,0,0,0,0,0
-Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 25,0,0,0,0,0
-Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0,0,0,0
-Right CerebrumLimbic LobeSubcallosal Gyrus,0,0,0,0,0
-Right CerebrumLimbic LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 21,0,0,0,0,0
-Left CerebrumTemporal LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0,0,0,0
-Left CerebrumTemporal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumTemporal LobeInferior Frontal GyrusWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobeSubcallosal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobeSubcallosal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumTemporal LobeInferior Frontal GyrusWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 47,0,0,0,0,0
-Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 11,0,0,0,0,0
-Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 11,0,0,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 17,0,0,0,0,0
-Right CerebrumGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 17,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 18,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Occipital GyrusWhite Matter,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Occipital GyrusWhite Matter,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Occipital Gyrus,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Occipital Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeSub-Gyral,0,0,0,0,0
-Right CerebrumSub-Gyral,0,0,0,0,0
-Right CerebrumOccipital LobeSub-Gyral,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Middle Occipital Gyrus,0,0,0,0,0
-Right CerebrumLingual Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeSub-GyralWhite Matter,0,0,0,0,0
-Right CerebrumOccipital LobeSub-GyralWhite Matter,0,0,0,0,0
-Left CerebellumAnterior LobeCulmen of VermisGray Matter,0,0,0,0,0
-Right CerebellumAnterior LobeCulmen of VermisGray Matter,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Temporal Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Temporal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Temporal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Left CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumOccipital LobeParahippocampal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumLimbic LobeFusiform GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumLimbic LobeSub-Gyral,0,0,0,0,0
-Left CerebrumLimbic LobeSub-Gyral,0,0,0,0,0
-Left CerebrumTemporal LobeSub-GyralGray MatterHippocampus,0,0,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterHippocampus,0,0,0,0,0
-Left CerebrumLimbic LobeSub-GyralGray MatterHippocampus,0,0,0,0,0
-Right CerebrumLimbic LobeSub-GyralGray MatterHippocampus,0,0,0,0,0
-Left BrainstemMidbrainGray MatterSubstania Nigra,0,0,0,0,0
-Right BrainstemMidbrainGray MatterSubstania Nigra,0,0,0,0,0
-Left BrainstemMidbrainGray MatterRed Nucleus,0,0,0,0,0
-Right BrainstemMidbrainGray MatterRed Nucleus,0,0,0,0,0
-Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 28,0,0,0,0,0
-Right CerebrumLimbic LobeWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeGray MatterCaudate Tail,0,0,0,0,0
-Right CerebrumTemporal LobeCaudateGray MatterCaudate Tail,0,0,0,0,0
-Left CerebrumTemporal LobeCaudateGray MatterCaudate Tail,0,0,0,0,0
-Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 21,0,0,0,0,0
-Left CerebrumTemporal LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Left BrainstemMidbrainGray MatterMammillary Body,0,0,0,0,0
-Right BrainstemMidbrainGray MatterMammillary Body,0,0,0,0,0
-Left CerebrumSub-lobarGray MatterAmygdala,0,0,0,0,0
-Right CerebrumWhite Matter,0,0,0,0,0
-Right CerebrumSub-lobarGray MatterAmygdala,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterOptic Tract,0,0,0,0,0
-Right CerebrumSub-lobarThird VentricleCerebro-Spinal Fluid,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterOptic Tract,0,0,0,0,0
-Left CerebrumSub-lobarThird VentricleCerebro-Spinal Fluid,0,0,0,0,0
-Left CerebrumSub-lobarGray MatterHypothalamus,0,0,0,0,0
-Right CerebrumSub-lobarGray MatterHypothalamus,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumLimbic LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior Cingulate,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior Cingulate,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateWhite Matter,0,0,0,0,0
-Right CerebrumLimbic LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumTemporal LobeSub-Gyral,0,0,0,0,0
-Left CerebrumSub-lobarExtra-Nuclear,0,0,0,0,0
-Left CerebrumSub-lobarLentiform NucleusGray MatterPutamen,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 25,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 25,0,0,0,0,0
-Right CerebrumSub-lobarLentiform NucleusGray MatterPutamen,0,0,0,0,0
-Right CerebrumSub-lobarExtra-Nuclear,0,0,0,0,0
-Right CerebrumTemporal LobeSub-Gyral,0,0,0,0,0
-Left CerebrumSub-lobarGray Matter,0,0,0,0,0
-Right CerebrumSub-lobarGray Matter,0,0,0,0,0
-Temporal LobeSuperior Temporal Gyrus,0,0,0,0,0
-Left CerebrumFrontal LobeSub-Gyral,0,0,0,0,0
-Right CerebrumFrontal LobeSub-Gyral,0,0,0,0,0
-Left CerebrumFrontal LobeExtra-Nuclear,0,0,0,0,0
-Right CerebrumFrontal LobeExtra-Nuclear,0,0,0,0,0
-Left CerebrumFrontal LobeExtra-NuclearGray MatterBrodmann area 47,0,0,0,0,0
-Right CerebrumFrontal LobeExtra-NuclearGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumFrontal-Temporal Space,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumFrontal-Temporal Space,0,0,0,0,0
-Left CerebrumFrontal-Temporal SpaceInferior Frontal Gyrus,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumFrontal LobeExtra-NuclearGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 47,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumFrontal LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 10,0,0,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 10,0,0,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Sub-Gyral,0,0,0,0,0
-Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Temporal Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumLimbic LobeLingual GyrusWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 30,0,0,0,0,0
-Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 30,0,0,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 30,0,0,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 27,0,0,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 27,0,0,0,0,0
-Right CerebrumTemporal LobeWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarCaudateGray MatterCaudate Tail,0,0,0,0,0
-Right CerebrumSub-lobarCaudateGray MatterCaudate Tail,0,0,0,0,0
-Left BrainstemMidbrainThalamusGray MatterMedial Geniculum Body,0,0,0,0,0
-Right BrainstemMidbrainThalamusGray MatterMedial Geniculum Body,0,0,0,0,0
-Left CerebrumSub-lobarInsulaWhite Matter,0,0,0,0,0
-Right CerebrumMidbrain,0,0,0,0,0
-Right CerebrumSub-lobarInsulaWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Left CerebrumSub-lobarInsulaGray MatterBrodmann area 22,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray MatterBrodmann area 22,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Left CerebrumSub-lobarInsulaGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumSub-lobarInsula,0,0,0,0,0
-Left CerebrumSub-lobarClaustrumGray Matter,0,0,0,0,0
-Right CerebrumSub-lobarClaustrumGray Matter,0,0,0,0,0
-Right CerebrumSub-lobarInsula,0,0,0,0,0
-Left CerebrumSub-lobarLentiform NucleusGray MatterLateral Globus Pallidus,0,0,0,0,0
-Left BrainstemMidbrainGray MatterSubthalamic Nucleus,0,0,0,0,0
-Right BrainstemMidbrainGray MatterSubthalamic Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarLentiform NucleusGray MatterLateral Globus Pallidus,0,0,0,0,0
-Left CerebrumSub-lobarLentiform NucleusGray MatterMedial Globus Pallidus,0,0,0,0,0
-Right CerebrumSub-lobarLentiform NucleusGray MatterMedial Globus Pallidus,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Right BrainstemMidbrainExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Left CerebrumSub-lobarWhite Matter,0,0,0,0,0
-Right CerebrumSub-lobarWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeInsula,0,0,0,0,0
-Left CerebrumSub-lobarCaudateGray MatterCaudate Head,0,0,0,0,0
-Right CerebrumSub-lobarCaudateGray MatterCaudate Head,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray MatterBrodmann area 47,0,0,0,0,0
-Right CerebrumSub-lobarInferior Frontal GyrusGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumSub-lobarInsulaGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 24,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 24,0,0,0,0,0
-Right CerebrumFrontal LobeGray MatterBrodmann area 10,0,0,0,0,0
-Right CerebrumMedial Frontal Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeCuneus,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 18,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 17,0,0,0,0,0
-Right CerebrumOccipital LobeCuneus,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 17,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 18,0,0,0,0,0
-Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 30,0,0,0,0,0
-Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 30,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusWhite Matter,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusWhite Matter,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 18,0,0,0,0,0
-Left CerebrumLimbic LobeLingual GyrusWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeSub-GyralGray Matter,0,0,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray Matter,0,0,0,0,0
-Left CerebrumTemporal LobeWhite MatterCaudate Tail,0,0,0,0,0
-Left CerebrumSub-lobarCaudateGray Matter,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterCaudate Tail,0,0,0,0,0
-Right CerebrumSub-lobarCaudateGray Matter,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterCaudate Tail,0,0,0,0,0
-Left CerebrumSub-lobarGray MatterLateral Geniculum Body,0,0,0,0,0
-Left BrainstemMidbrainGray MatterMedial Geniculum Body,0,0,0,0,0
-Right BrainstemMidbrainGray MatterMedial Geniculum Body,0,0,0,0,0
-Right CerebrumSub-lobarGray MatterLateral Geniculum Body,0,0,0,0,0
-Left CerebrumSub-lobarLentiform NucleusGray Matter,0,0,0,0,0
-Right CerebrumMidbrainExtra-NuclearWhite Matter,0,0,0,0,0
-Left BrainstemMidbrainWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterAnterior Commissure,0,0,0,0,0
-Inter-HemisphericWhite MatterAnterior Commissure,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterAnterior Commissure,0,0,0,0,0
-Left CerebrumFrontal-Temporal SpaceSuperior Temporal Gyrus,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterCorpus Callosum,0,0,0,0,0
-Inter-HemisphericWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterCorpus Callosum,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearCerebro-Spinal Fluid,0,0,0,0,0
-Right CerebrumSub-lobarClaustrumWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralWhite MatterCorpus Callosum,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 10,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 10,0,0,0,0,0
-Gray Matter,0,0,0,0,0
-Left CerebrumOccipital LobeGray Matter,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Occipital GyrusGray Matter,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Occipital GyrusGray Matter,0,0,0,0,0
-Right CerebrumGray Matter,0,0,0,0,0
-Middle Occipital GyrusGray Matter,0,0,0,0,0
-Inter-HemisphericLingual Gyrus,0,0,0,0,0
-Right CerebrumOccipital LobeLingual GyrusGray Matter,0,0,0,0,0
-Left CerebrumLimbic LobeLingual GyrusGray Matter,0,0,0,0,0
-Middle Temporal GyrusGray Matter,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray Matter,0,0,0,0,0
-Sub-lobarExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray Matter,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray Matter,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray Matter,0,0,0,0,0
-Inter-HemisphericOccipital LobeGray Matter,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray Matter,0,0,0,0,0
-Right CerebrumCuneusGray Matter,0,0,0,0,0
-Inter-HemisphericOccipital LobeCuneusGray MatterBrodmann area 18,0,0,0,0,0
-Inter-HemisphericCuneus,0,0,0,0,0
-Right CerebrumOccipital LobeGray Matter,0,0,0,0,0
-Inter-HemisphericOccipital LobeCuneusGray MatterBrodmann area 17,0,0,0,0,0
-Left CerebrumOccipital LobeLingual GyrusGray Matter,0,0,0,0,0
-Right CerebrumMiddle Occipital GyrusGray Matter,0,0,0,0,0
-Inter-HemisphericOccipital LobeCuneus,0,0,0,0,0
-Inter-HemisphericOccipital LobeCuneusGray Matter,0,0,0,0,0
-Inter-HemisphericOccipital LobeLingual GyrusGray Matter,0,0,0,0,0
-Right CerebrumMiddle Occipital Gyrus,0,0,0,0,0
-Inter-HemisphericOccipital Lobe,0,0,0,0,0
-Left CerebrumOccipital LobeInferior Temporal GyrusGray Matter,0,0,0,0,0
-Right CerebrumOccipital LobeInferior Temporal GyrusGray Matter,0,0,0,0,0
-Inferior Temporal GyrusGray Matter,0,0,0,0,0
-Right CerebrumInferior Temporal GyrusGray Matter,0,0,0,0,0
-Left CerebrumOccipital LobeSub-GyralGray Matter,0,0,0,0,0
-Left CerebrumTemporal LobeInferior Temporal GyrusGray Matter,0,0,0,0,0
-Right CerebrumTemporal LobeInferior Temporal GyrusGray Matter,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray Matter,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Temporal Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Temporal GyrusGray Matter,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Culmen of Vermis,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Temporal Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Temporal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumMiddle Temporal Gyrus,0,0,0,0,0
-Right CerebellumAnterior LobeCulmenGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumTemporal LobeLingual GyrusWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeLingual GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray Matter,0,0,0,0,0
-Right CerebrumTemporal LobeLingual GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumTemporal LobeLingual GyrusWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray Matter,0,0,0,0,0
-Left CerebrumTemporal LobeCerebro-Spinal FluidCaudate Tail,0,0,0,0,0
-Left CerebrumTemporal LobeWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Right Brainstem,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray Matter,0,0,0,0,0
-Left BrainstemMidbrainExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumSuperior Temporal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeInsulaGray Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterVentral Posterior Lateral Nucleus,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterVentral Posterior Medial Nucleus,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterMammillary Body,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterMammillary Body,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterVentral Posterior Medial Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterVentral Posterior Lateral Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray Matter,0,0,0,0,0
-Right CerebrumTemporal LobeInsulaGray Matter,0,0,0,0,0
-Left CerebrumTemporal LobeInsulaGray MatterBrodmann area 22,0,0,0,0,0
-Right CerebrumTemporal LobeInsulaGray MatterBrodmann area 22,0,0,0,0,0
-Left CerebrumTemporal LobeInsulaGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumTemporal LobeInsulaGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumTemporal LobeInsula,0,0,0,0,0
-Left CerebrumSub-lobarInsulaGray Matter,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterMedial Globus Pallidus,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterLateral Globus Pallidus,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterLateral Globus Pallidus,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterPutamen,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterPutamen,0,0,0,0,0
-Left CerebrumSub-lobarCaudateCerebro-Spinal FluidCaudate Head,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray Matter,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray Matter,0,0,0,0,0
-Right CerebrumSub-lobarCaudateCerebro-Spinal FluidCaudate Head,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 45,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 45,0,0,0,0,0
-Left CerebrumSub-lobarInferior Frontal GyrusGray MatterBrodmann area 47,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateGray Matter,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateGray Matter,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 46,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 46,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralGray Matter,0,0,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray Matter,0,0,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal GyrusGray Matter,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray Matter,0,0,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal GyrusGray Matter,0,0,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray Matter,0,0,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray Matter,0,0,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray Matter,0,0,0,0,0
-Inter-HemisphericFrontal Lobe,0,0,0,0,0
-Right CerebrumFrontal LobeGray Matter,0,0,0,0,0
-Inter-HemisphericSub-lobarExtra-NuclearWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterPulvinar,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterPulvinar,0,0,0,0,0
-Inter-HemisphericCerebro-Spinal FluidOptic Tract,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Occipital Gyrus,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Occipital Gyrus,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Occipital GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Occipital GyrusWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 18,0,0,0,0,0
-Inter-HemisphericSub-lobarExtra-NuclearCerebro-Spinal FluidOptic Tract,0,0,0,0,0
-Right CerebrumSub-lobarSuperior Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Left CerebrumTemporal LobeInsulaWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterMedial Dorsal Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterMedial Dorsal Nucleus,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearCerebro-Spinal FluidOptic Tract,0,0,0,0,0
-Right CerebrumCerebro-Spinal FluidOptic Tract,0,0,0,0,0
-Right CerebrumSub-lobarLentiform NucleusGray Matter,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearCerebro-Spinal FluidOptic Tract,0,0,0,0,0
-Right CerebrumSub-lobarSuperior Temporal Gyrus,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterVentral Lateral Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterVentral Lateral Nucleus,0,0,0,0,0
-Right CerebrumThalamusGray Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterVentral Anterior Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterVentral Anterior Nucleus,0,0,0,0,0
-Left CerebrumFrontal-Temporal SpaceInsula,0,0,0,0,0
-Left CerebrumFrontal LobeInsula,0,0,0,0,0
-Right CerebrumSub-lobarInferior Frontal Gyrus,0,0,0,0,0
-Inter-HemisphericSub-lobarExtra-NuclearWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumSub-lobarInferior Frontal GyrusGray MatterBrodmann area 45,0,0,0,0,0
-Left CerebrumSub-lobarInferior Frontal Gyrus,0,0,0,0,0
-Left CerebrumSub-lobarInsulaGray MatterBrodmann area 45,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray MatterBrodmann area 45,0,0,0,0,0
-Right CerebrumSub-lobarWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 46,0,0,0,0,0
-Inter-HemisphericFrontal LobeMedial Frontal Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 30,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 30,0,0,0,0,0
-Left CerebrumLimbic LobePosterior CingulateWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 30,0,0,0,0,0
-Right CerebrumLimbic LobePosterior CingulateWhite Matter,0,0,0,0,0
-Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 30,0,0,0,0,0
-Left CerebrumOccipital LobePosterior CingulateWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobePosterior Cingulate,0,0,0,0,0
-Right CerebrumLimbic LobePosterior Cingulate,0,0,0,0,0
-Right CerebrumOccipital LobePosterior CingulateGray MatterBrodmann area 30,0,0,0,0,0
-Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 29,0,0,0,0,0
-Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 29,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 41,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 41,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 42,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 42,0,0,0,0,0
-Right CerebrumSub-lobarExtra-NuclearWhite MatterPulvinar,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterVentral Posterior Lateral Nucleus,0,0,0,0,0
-Left CerebrumTemporal LobePrecentral Gyrus,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral Gyrus,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral Gyrus,0,0,0,0,0
-Right CerebrumTemporal LobePrecentral Gyrus,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterAnterior Nucleus,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterAnterior Nucleus,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusWhite Matter,0,0,0,0,0
-Inter-HemisphericWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 44,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 44,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray MatterBrodmann area 44,0,0,0,0,0
-Left CerebrumSub-lobarCaudateGray MatterCaudate Body,0,0,0,0,0
-Right CerebrumSub-lobarCaudateGray MatterCaudate Body,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 46,0,0,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 46,0,0,0,0,0
-Left CerebrumMiddle Occipital Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Temporal GyrusWhite Matter,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 23,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 23,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Inter-HemisphericLimbic LobePosterior Cingulate,0,0,0,0,0
-Left CerebrumLimbic LobeExtra-NuclearWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumLimbic LobeExtra-NuclearWhite MatterCorpus Callosum,0,0,0,0,0
-Left CerebrumLimbic LobeSub-GyralWhite MatterCorpus Callosum,0,0,0,0,0
-Inter-HemisphericLimbic LobeExtra-NuclearWhite MatterCorpus Callosum,0,0,0,0,0
-Right CerebrumLimbic LobeSub-GyralWhite MatterCorpus Callosum,0,0,0,0,0
-Superior Temporal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeTransverse Temporal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeTransverse Temporal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 41,0,0,0,0,0
-Left CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 41,0,0,0,0,0
-Left CerebrumSub-lobarInsulaGray MatterBrodmann area 41,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray MatterBrodmann area 41,0,0,0,0,0
-Left CerebrumSub-lobarTransverse Temporal GyrusGray MatterBrodmann area 41,0,0,0,0,0
-Left CerebrumSub-lobarTransverse Temporal GyrusWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterLateral Posterior Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterLateral Posterior Nucleus,0,0,0,0,0
-Right CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 42,0,0,0,0,0
-Left CerebrumTemporal LobeTransverse Temporal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 42,0,0,0,0,0
-Right CerebrumTemporal LobeTransverse Temporal Gyrus,0,0,0,0,0
-Right CerebrumTemporal LobePrecentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobeTransverse Temporal GyrusWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumSub-lobarPrecentral GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 13,0,0,0,0,0
-Left CerebrumTransverse Temporal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobePrecentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobePrecentral GyrusGray MatterBrodmann area 43,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 43,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 43,0,0,0,0,0
-Right CerebrumTemporal LobePrecentral GyrusGray MatterBrodmann area 42,0,0,0,0,0
-Left CerebrumTemporal LobePrecentral GyrusGray MatterBrodmann area 42,0,0,0,0,0
-Left CerebrumPrecentral Gyrus,0,0,0,0,0
-Inter-HemisphericSub-lobarLateral VentricleCerebro-Spinal Fluid,0,0,0,0,0
-Right CerebrumPrecentral Gyrus,0,0,0,0,0
-Left CerebrumFrontal LobeInsulaWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobeInsulaWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 44,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 44,0,0,0,0,0
-Left CerebrumLimbic LobeExtra-Nuclear,0,0,0,0,0
-Right CerebrumLimbic LobeExtra-Nuclear,0,0,0,0,0
-Inter-HemisphericLimbic LobeAnterior Cingulate,0,0,0,0,0
-Left CerebrumMiddle Frontal Gyrus,0,0,0,0,0
-Right CerebrumGray MatterBrodmann area 10,0,0,0,0,0
-Inter-HemisphericFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 10,0,0,0,0,0
-Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 18,0,0,0,0,0
-Left CerebrumLimbic LobePosterior CingulateGray Matter,0,0,0,0,0
-Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumLimbic LobePosterior CingulateGray Matter,0,0,0,0,0
-Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 23,0,0,0,0,0
-Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 23,0,0,0,0,0
-Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Left CerebrumSuperior Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Left CerebrumOccipital LobeSuperior Temporal GyrusGray MatterBrodmann area 22,0,0,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 41,0,0,0,0,0
-Right CerebrumTemporal LobeInsulaWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeInsulaGray MatterBrodmann area 41,0,0,0,0,0
-Right CerebrumTemporal LobeInsulaGray MatterBrodmann area 41,0,0,0,0,0
-Left CerebrumTemporal LobePostcentral Gyrus,0,0,0,0,0
-Left CerebrumParietal LobePostcentral Gyrus,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumParietal LobeInsulaWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarExtra-NuclearWhite MatterPulvinar,0,0,0,0,0
-Right CerebrumParietal LobeInsulaWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumTemporal LobePostcentral Gyrus,0,0,0,0,0
-Right CerebrumParietal LobeSuperior Temporal Gyrus,0,0,0,0,0
-Right CerebrumSub-lobarInsulaGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumParietal LobePostcentral Gyrus,0,0,0,0,0
-Left CerebrumParietal LobeSuperior Temporal Gyrus,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarInsulaGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterLateral Dorsal Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterLateral Dorsal Nucleus,0,0,0,0,0
-Left CerebrumPostcentral Gyrus,0,0,0,0,0
-Left CerebrumSub-lobarThalamusGray MatterMidline Nucleus,0,0,0,0,0
-Right CerebrumSub-lobarThalamusGray MatterMidline Nucleus,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 43,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 43,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray Matter,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray Matter,0,0,0,0,0
-Left CerebrumParietal LobeSub-GyralWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 43,0,0,0,0,0
-Right CerebrumParietal LobeSub-GyralWhite Matter,0,0,0,0,0
-Left CerebrumParietal Lobe,0,0,0,0,0
-Left CerebrumParietal LobePrecentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobePrecentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobePrecentral Gyrus,0,0,0,0,0
-Left CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumParietal LobePrecentral Gyrus,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Left CerebrumInferior Frontal Gyrus,0,0,0,0,0
-Middle Frontal Gyrus,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 9,0,0,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 9,0,0,0,0,0
-Left CerebrumSuperior Frontal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumTemporal LobeMiddle Occipital GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumOccipital LobePrecuneusWhite Matter,0,0,0,0,0
-Right CerebrumOccipital LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumOccipital LobePrecuneus,0,0,0,0,0
-Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumOccipital LobePrecuneus,0,0,0,0,0
-Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 23,0,0,0,0,0
-Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 23,0,0,0,0,0
-Left CerebrumSub-lobarPosterior CingulateWhite Matter,0,0,0,0,0
-Right CerebrumSub-lobarPosterior CingulateWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobePostcentral GyrusWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobePostcentral GyrusWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Precentral Gyrus,0,0,0,0,0
-Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 33,0,0,0,0,0
-Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 33,0,0,0,0,0
-Inter-HemisphericAnterior Cingulate,0,0,0,0,0
-Left CerebrumFrontal LobeAnterior CingulateGray MatterBrodmann area 9,0,0,0,0,0
-Cuneus,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 19,0,0,0,0,0
-Superior Occipital Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeSuperior Occipital Gyrus,0,0,0,0,0
-Right CerebrumOccipital LobeSuperior Occipital Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 19,0,0,0,0,0
-Left CerebrumOccipital LobeSuperior Occipital GyrusWhite Matter,0,0,0,0,0
-Right CerebrumOccipital LobeSuperior Occipital GyrusWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Occipital Gyrus,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Occipital Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeCuneusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeCuneusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 18,0,0,0,0,0
-Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumParietal LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobePrecuneus,0,0,0,0,0
-Right CerebrumParietal LobePrecuneus,0,0,0,0,0
-Right CerebrumTemporal LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumParietal LobePrecuneusWhite Matter,0,0,0,0,0
-Frontal LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumTemporal LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeSupramarginal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumTemporal LobeSupramarginal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeSupramarginal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumTemporal LobeSupramarginal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeInferior Parietal LobuleWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeExtra-NuclearWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeInferior Parietal LobuleWhite Matter,0,0,0,0,0
-Left CerebrumTemporal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumParietal LobeInferior Parietal LobuleWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeInferior Parietal LobuleWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumParietal LobeSupramarginal Gyrus,0,0,0,0,0
-Right CerebrumParietal LobeSupramarginal Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeInferior Parietal Lobule,0,0,0,0,0
-Right CerebrumTemporal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumTemporal LobeInferior Parietal Lobule,0,0,0,0,0
-Left CerebrumParietal LobeInferior Parietal Lobule,0,0,0,0,0
-Inter-HemisphericLimbic Lobe,0,0,0,0,0
-Right CerebrumParietal LobeInferior Parietal Lobule,0,0,0,0,0
-Left CerebrumLimbic LobeWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 2,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 2,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 1,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 1,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Left CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Right CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Inter-HemisphericSuperior Frontal Gyrus,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumTemporal LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumTemporal LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumLimbic LobePrecuneus,0,0,0,0,0
-Left CerebrumLimbic LobeCingulate Gyrus,0,0,0,0,0
-Right CerebrumLimbic LobeCingulate Gyrus,0,0,0,0,0
-Right CerebrumLimbic LobePrecuneus,0,0,0,0,0
-Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumLimbic LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumLimbic LobeCingulate GyrusWhite Matter,0,0,0,0,0
-Right CerebrumLimbic LobeCingulate GyrusWhite Matter,0,0,0,0,0
-Right CerebrumLimbic LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumLimbic LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumOccipital LobeSuperior Temporal Gyrus,0,0,0,0,0
-Right CerebrumOccipital LobeSuperior Temporal Gyrus,0,0,0,0,0
-Left CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumParietal LobeSupramarginal GyrusWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeSupramarginal GyrusWhite Matter,0,0,0,0,0
-Supramarginal Gyrus,0,0,0,0,0
-Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 31,0,0,0,0,0
-Inferior Parietal Lobule,0,0,0,0,0
-Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 23,0,0,0,0,0
-Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 23,0,0,0,0,0
-Left CerebrumFrontal LobeInferior Parietal LobuleWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Parietal LobuleWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 24,0,0,0,0,0
-Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 24,0,0,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Left CerebrumLimbic LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumLimbic LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Left CerebrumLimbic LobeMedial Frontal Gyrus,0,0,0,0,0
-Right CerebrumLimbic LobeMedial Frontal Gyrus,0,0,0,0,0
-Right CerebrumCuneus,0,0,0,0,0
-Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 7,0,0,0,0,0
-Angular Gyrus,0,0,0,0,0
-Left CerebrumOccipital LobeAngular Gyrus,0,0,0,0,0
-Right CerebrumOccipital LobeAngular Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeAngular Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeAngular GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumTemporal LobeAngular GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumTemporal LobeAngular Gyrus,0,0,0,0,0
-Left CerebrumTemporal LobeAngular GyrusWhite Matter,0,0,0,0,0
-Right CerebrumTemporal LobeAngular GyrusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobeCuneusWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeCuneusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobeAngular GyrusWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeAngular GyrusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 7,0,0,0,0,0
-Parietal Lobe,0,0,0,0,0
-Left CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumPrecuneus,0,0,0,0,0
-Right CerebrumParietal Lobe,0,0,0,0,0
-Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 2,0,0,0,0,0
-Left CerebrumFrontal LobePostcentral Gyrus,0,0,0,0,0
-Right CerebrumFrontal LobePostcentral Gyrus,0,0,0,0,0
-Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 9,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 9,0,0,0,0,0
-Left CerebrumParietal LobeCuneus,0,0,0,0,0
-Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 19,0,0,0,0,0
-Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 19,0,0,0,0,0
-Inter-HemisphericPrecuneus,0,0,0,0,0
-Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumParietal LobeCingulate GyrusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumParietal LobeCingulate Gyrus,0,0,0,0,0
-Right CerebrumParietal LobeCingulate Gyrus,0,0,0,0,0
-Right CerebrumParietal LobeCingulate GyrusGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumParietal LobeSub-GyralGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumFrontal LobeCingulate GyrusWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobeCingulate GyrusWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 9,0,0,0,0,0
-Left CerebrumFrontal LobeCingulate Gyrus,0,0,0,0,0
-Left CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumFrontal LobeCingulate Gyrus,0,0,0,0,0
-Right CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 32,0,0,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Left CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Precuneus,0,0,0,0,0
-Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 39,0,0,0,0,0
-Right CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 39,0,0,0,0,0
-Left CerebrumFrontal LobePrecuneusGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumParietal LobeSub-GyralGray MatterBrodmann area 2,0,0,0,0,0
-Right CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 3,0,0,0,0,0
-Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 24,0,0,0,0,0
-Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 24,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 6,0,0,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 8,0,0,0,0,0
-Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 8,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 8,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 8,0,0,0,0,0
-Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 32,0,0,0,0,0
-Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 32,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 32,0,0,0,0,0
-Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 8,0,0,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 8,0,0,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 8,0,0,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 8,0,0,0,0,0
-Left CerebrumParietal LobeSuperior Parietal Lobule,0,0,0,0,0
-Right CerebrumParietal LobeSuperior Parietal Lobule,0,0,0,0,0
-Left CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 7,0,0,0,0,0
-Left CerebrumParietal LobeSuperior Parietal LobuleWhite Matter,0,0,0,0,0
-Right CerebrumParietal LobeSuperior Parietal LobuleWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 7,0,0,0,0,0
-Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumFrontal LobeParacentral Lobule,0,0,0,0,0
-Inter-HemisphericParacentral Lobule,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral Lobule,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 31,0,0,0,0,0
-Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumFrontal LobeParacentral LobuleWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral LobuleWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeParacentral LobuleGray MatterBrodmann area 31,0,0,0,0,0
-Left CerebrumLimbic LobeParacentral LobuleWhite Matter,0,0,0,0,0
-Right CerebrumLimbic LobeParacentral LobuleWhite Matter,0,0,0,0,0
-Left CerebrumLimbic LobeParacentral Lobule,0,0,0,0,0
-Right CerebrumLimbic LobeParacentral Lobule,0,0,0,0,0
-Inter-HemisphericCingulate Gyrus,0,0,0,0,0
-Inter-HemisphericMedial Frontal Gyrus,0,0,0,0,0
-Superior Parietal Lobule,0,0,0,0,0
-Left CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 40,0,0,0,0,0
-Right CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumParietal LobeParacentral LobuleWhite Matter,0,0,0,0,0
-Left CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 5,0,0,0,0,0
-Left CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 5,0,0,0,0,0
-Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 5,0,0,0,0,0
-Right CerebrumFrontal LobePrecuneus,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 5,0,0,0,0,0
-Left CerebrumParietal LobeParacentral Lobule,0,0,0,0,0
-Right CerebrumParietal LobeParacentral Lobule,0,0,0,0,0
-Right CerebrumParietal LobeParacentral LobuleWhite Matter,0,0,0,0,0
-Right CerebrumFrontal LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 6,0,0,0,0,0
-Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 6,0,0,0,0,0
-Right CerebrumSuperior Parietal Lobule,0,0,0,0,0
-Left CerebrumParietal LobeSub-GyralGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumFrontal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0,0,0,0
-Left CerebrumFrontal LobePrecuneusGray MatterBrodmann area 5,0,0,0,0,0
-Left CerebrumFrontal LobePrecuneusWhite Matter,0,0,0,0,0
-Left CerebrumFrontal LobePrecuneus,0,0,0,0,0
-Right CerebrumFrontal LobePrecuneusGray MatterBrodmann area 5,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 7,0,0,0,0,0
-Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 3,0,0,0,0,0
-Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 3,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 3,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 6,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 5,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 5,0,0,0,0,0
-Left CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 5,0,0,0,0,0
-Right CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 5,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 4,0,0,0,0,0
-Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 7,0,0,0,0,0
-Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 7,0,0,0,0,0
-Inter-HemisphericPostcentral Gyrus,0,0,0,0,0
-Left CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 4,0,0,0,0,0
-Right CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 4,0,0,0,0,0
+Unknown/Background,5353072,5353072.0,0,0.0,0.0
+Left CerebellumPosterior LobeInferior Semi-Lunar LobuleGray Matter,13612,13612.0,0,0.0,0.0
+Right CerebellumPosterior LobeInferior Semi-Lunar LobuleGray Matter,15446,15446.0,0,0.0,0.0
+Left CerebellumPosterior LobeCerebellar TonsilGray Matter,18262,18262.0,0,0.0,0.0
+Right CerebellumPosterior LobeCerebellar TonsilGray Matter,16288,16288.0,0,0.0,0.0
+Left BrainstemMedulla,4234,4234.0,0,0.0,0.0
+Right BrainstemMedulla,3417,3417.0,0,0.0,0.0
+Inferior Temporal Gyrus,307,307.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 20,3770,3770.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Temporal Gyrus,2736,2736.0,0,0.0,0.0
+Left CerebrumTemporal Lobe,3456,3456.0,0,0.0,0.0
+Right CerebrumTemporal Lobe,4807,4807.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Temporal Gyrus,5480,5480.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 20,6028,6028.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Temporal GyrusWhite Matter,6521,6521.0,0,0.0,0.0
+Left CerebrumLimbic LobeInferior Temporal GyrusGray MatterBrodmann area 20,4687,4687.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncusGray MatterBrodmann area 20,14726,14726.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncus,5603,5603.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncusGray MatterBrodmann area 20,12206,12206.0,0,0.0,0.0
+Right CerebrumLimbic LobeInferior Temporal GyrusGray MatterBrodmann area 20,3414,3414.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Temporal GyrusWhite Matter,4517,4517.0,0,0.0,0.0
+Left CerebrumLimbic Lobe,1305,1305.0,0,0.0,0.0
+Right CerebrumLimbic Lobe,1540,1540.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 20,667,667.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusWhite Matter,23298,23298.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncusWhite Matter,4072,4072.0,0,0.0,0.0
+Right CerebrumLimbic LobeGray MatterBrodmann area 20,507,507.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncusWhite Matter,4793,4793.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusWhite Matter,38568,38568.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 20,762,762.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal Gyrus,18818,18818.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncus,848,848.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal Gyrus,3292,3292.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 38,435,435.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncusGray MatterBrodmann area 38,1551,1551.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncusGray MatterBrodmann area 38,2091,2091.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 38,513,513.0,0,0.0,0.0
+Left CerebrumLimbic LobeMiddle Temporal GyrusWhite Matter,4799,4799.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 38,5930,5930.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusWhite Matter,21170,21170.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal Gyrus,9284,9284.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 38,5837,5837.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusWhite Matter,20680,20680.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal Gyrus,5016,5016.0,0,0.0,0.0
+Right CerebrumTemporal LobeGray MatterBrodmann area 38,1795,1795.0,0,0.0,0.0
+Left CerebrumTemporal LobeGray MatterBrodmann area 38,63,63.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Temporal GyrusGray MatterBrodmann area 20,4369,4369.0,0,0.0,0.0
+Right CerebrumInferior Temporal Gyrus,2622,2622.0,0,0.0,0.0
+Right Cerebrum,3925,3925.0,0,0.0,0.0
+Left CerebrumLimbic LobeInferior Temporal GyrusWhite Matter,658,658.0,0,0.0,0.0
+Right CerebrumLimbic LobeInferior Temporal GyrusWhite Matter,4852,4852.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralWhite Matter,31501,31501.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralWhite Matter,40197,40197.0,0,0.0,0.0
+Left CerebrumLimbic LobeGray MatterBrodmann area 20,17835,17835.0,0,0.0,0.0
+Middle Temporal Gyrus,7421,7421.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralWhite Matter,2806,2806.0,0,0.0,0.0
+Left CerebrumLimbic LobeSuperior Temporal GyrusWhite Matter,1341,1341.0,0,0.0,0.0
+Right CerebrumLimbic LobeSuperior Temporal GyrusWhite Matter,534,534.0,0,0.0,0.0
+Right CerebrumUncus,120,120.0,0,0.0,0.0
+Left CerebrumLimbic LobeSuperior Temporal GyrusGray MatterBrodmann area 38,3952,3952.0,0,0.0,0.0
+Right CerebrumLimbic LobeSuperior Temporal GyrusGray MatterBrodmann area 38,4463,4463.0,0,0.0,0.0
+Left CerebellumPosterior LobePyramisGray Matter,7620,7620.0,0,0.0,0.0
+Right CerebellumPosterior LobePyramisGray Matter,7582,7582.0,0,0.0,0.0
+Left CerebellumPosterior LobeUvulaGray Matter,11442,11442.0,0,0.0,0.0
+Right CerebellumPosterior LobeUvulaGray Matter,11083,11083.0,0,0.0,0.0
+Right CerebellumGray Matter,2506,2506.0,0,0.0,0.0
+Left CerebellumGray Matter,2517,2517.0,0,0.0,0.0
+Left CerebellumPosterior LobeUvula of VermisGray Matter,1411,1411.0,0,0.0,0.0
+Right CerebellumPosterior LobeUvula of VermisGray Matter,1269,1269.0,0,0.0,0.0
+Right CerebellumSub-lobarFourth VentricleCerebro-Spinal Fluid,826,826.0,0,0.0,0.0
+Left CerebellumSub-lobarFourth VentricleCerebro-Spinal Fluid,1241,1241.0,0,0.0,0.0
+Left BrainstemPons,9727,9727.0,0,0.0,0.0
+Right BrainstemPons,11043,11043.0,0,0.0,0.0
+Limbic LobeUncus,567,567.0,0,0.0,0.0
+Left Cerebrum,2413,2413.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncusGray MatterBrodmann area 36,3813,3813.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncusGray MatterBrodmann area 36,3713,3713.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 21,934,934.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 21,8345,8345.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 21,8101,8101.0,0,0.0,0.0
+Left CerebellumPosterior LobeTuberGray Matter,11417,11417.0,0,0.0,0.0
+Right CerebellumPosterior LobeTuberGray Matter,11922,11922.0,0,0.0,0.0
+Left CerebellumPosterior LobePyramis of VermisGray Matter,1181,1181.0,0,0.0,0.0
+Right CerebellumPosterior LobePyramis of VermisGray Matter,801,801.0,0,0.0,0.0
+Left CerebellumAnterior LobeNoduleGray Matter,1324,1324.0,0,0.0,0.0
+Left CerebellumAnterior LobeGray Matter,4287,4287.0,1,1.0,0.023326335432703522
+Right CerebellumAnterior LobeNoduleGray Matter,1726,1726.0,0,0.0,0.0
+Right CerebellumAnterior LobeGray Matter,4438,4438.0,0,0.0,0.0
+Left CerebellumAnterior LobeCulmenGray Matter,22971,22971.0,0,0.0,0.0
+Right CerebellumAnterior LobeCulmenGray Matter,21586,21586.0,0,0.0,0.0
+Temporal Lobe,2516,2516.0,0,0.0,0.0
+Temporal LobeInferior Temporal Gyrus,40060,40060.0,57,57.0,0.14228657014478283
+Right CerebrumLimbic LobeInferior Temporal Gyrus,52381,52381.0,0,0.0,0.0
+Left CerebrumLimbic LobeInferior Temporal Gyrus,2816,2816.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncusGray MatterBrodmann area 28,4119,4119.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncusGray MatterBrodmann area 28,2438,2438.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralWhite Matter,16720,16720.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 21,464,464.0,0,0.0,0.0
+Left CerebrumInferior Temporal Gyrus,560,560.0,1,1.0,0.17857142857142858
+Left CerebrumMiddle Temporal Gyrus,235,235.0,0,0.0,0.0
+Left CerebrumSuperior Temporal Gyrus,768,768.0,0,0.0,0.0
+Left CerebrumSuperior Temporal GyrusGray MatterBrodmann area 38,595,595.0,0,0.0,0.0
+Left CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 11,2301,2301.0,0,0.0,0.0
+Right CerebrumOrbital GyrusGray MatterBrodmann area 11,1105,1105.0,1,1.0,0.09049773755656108
+Frontal LobeOrbital Gyrus,1011,1011.0,0,0.0,0.0
+Left CerebrumFrontal LobeOrbital Gyrus,838,838.0,0,0.0,0.0
+Left CerebrumFrontal Lobe,2032,2032.0,0,0.0,0.0
+Inter-Hemispheric,25551,25551.0,2,2.0,0.00782748229032132
+Right CerebrumFrontal Lobe,1698,1698.0,0,0.0,0.0
+Right CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 11,2151,2151.0,0,0.0,0.0
+Right CerebrumFrontal LobeOrbital Gyrus,12492,12492.0,0,0.0,0.0
+Orbital Gyrus,14727,14727.0,0,0.0,0.0
+Left CerebrumFrontal LobeOrbital GyrusWhite Matter,12347,12347.0,0,0.0,0.0
+Right CerebrumFrontal LobeOrbital GyrusWhite Matter,10927,10927.0,0,0.0,0.0
+Left CerebellumPosterior LobeTuber of VermisGray Matter,377,377.0,0,0.0,0.0
+Right CerebellumPosterior LobeTuber of VermisGray Matter,7049,7049.0,0,0.0,0.0
+Left CerebellumAnterior LobePyramisGray Matter,2064,2064.0,0,0.0,0.0
+Right CerebellumAnterior LobePyramisGray Matter,2353,2353.0,0,0.0,0.0
+Right CerebellumAnterior LobeGray MatterDentate,8140,8140.0,0,0.0,0.0
+Left CerebellumAnterior LobeGray MatterDentate,3203,3203.0,0,0.0,0.0
+Left CerebellumPosterior LobeCulmenGray Matter,353,353.0,0,0.0,0.0
+Left CerebrumTemporal LobeFusiform Gyrus,2915,2915.0,0,0.0,0.0
+Right CerebrumTemporal LobeFusiform Gyrus,1288,1288.0,0,0.0,0.0
+Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 20,11779,11779.0,0,0.0,0.0
+Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 20,6264,6264.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal Gyrus,3818,3818.0,0,0.0,0.0
+Limbic LobeParahippocampal Gyrus,7863,7863.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal Gyrus,5632,5632.0,0,0.0,0.0
+Left CerebrumTemporal LobeFusiform GyrusWhite Matter,7911,7911.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 36,1672,1672.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 36,1662,1662.0,0,0.0,0.0
+Right CerebrumTemporal LobeFusiform GyrusWhite Matter,6203,6203.0,0,0.0,0.0
+Right CerebrumLimbic LobeFusiform Gyrus,2677,2677.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusWhite Matter,8953,8953.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusWhite Matter,12297,12297.0,0,0.0,0.0
+Right CerebrumLimbic LobeFusiform GyrusGray MatterBrodmann area 20,3735,3735.0,0,0.0,0.0
+Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 36,376,376.0,0,0.0,0.0
+Left CerebrumLimbic LobeFusiform GyrusWhite Matter,63,63.0,0,0.0,0.0
+Right CerebrumLimbic LobeFusiform GyrusWhite Matter,1228,1228.0,0,0.0,0.0
+Fusiform Gyrus,3568,3568.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 35,3994,3994.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 35,2018,2018.0,0,0.0,0.0
+Left CerebrumFrontal LobeRectal GyrusGray MatterBrodmann area 11,1601,1601.0,0,0.0,0.0
+Left CerebrumFrontal LobeRectal Gyrus,367,367.0,0,0.0,0.0
+Right CerebrumFrontal LobeRectal Gyrus,3357,3357.0,0,0.0,0.0
+Right CerebrumFrontal LobeRectal GyrusGray MatterBrodmann area 11,5635,5635.0,0,0.0,0.0
+Left CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 47,3506,3506.0,0,0.0,0.0
+Right CerebrumFrontal LobeOrbital GyrusGray MatterBrodmann area 47,3446,3446.0,0,0.0,0.0
+Left CerebrumFrontal LobeRectal GyrusWhite Matter,4762,4762.0,0,0.0,0.0
+Right CerebrumFrontal LobeRectal GyrusWhite Matter,1638,1638.0,0,0.0,0.0
+Inter-HemisphericRectal Gyrus,7889,7889.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal Gyrus,6232,6232.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 11,10519,10519.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 11,21156,21156.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal Gyrus,25704,25704.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal GyrusWhite Matter,30219,30219.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal GyrusWhite Matter,31155,31155.0,0,0.0,0.0
+Left CerebellumPosterior LobeDecliveGray Matter,23844,23844.0,0,0.0,0.0
+Right CerebellumPosterior LobeDecliveGray Matter,18667,18667.0,0,0.0,0.0
+Left CerebellumPosterior LobeDeclive of VermisGray Matter,2894,2894.0,0,0.0,0.0
+Right CerebellumPosterior LobeDeclive of VermisGray Matter,3220,3220.0,0,0.0,0.0
+Left CerebellumPosterior LobeGray MatterDentate,6461,6461.0,0,0.0,0.0
+Left CerebellumPosterior LobeFastigiumGray Matter,6744,6744.0,0,0.0,0.0
+Right CerebellumAnterior LobeFastigiumGray Matter,1637,1637.0,0,0.0,0.0
+Right CerebellumPosterior LobeGray MatterDentate,319,319.0,0,0.0,0.0
+Left CerebellumAnterior LobeFastigiumGray Matter,582,582.0,0,0.0,0.0
+Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 36,1179,1179.0,0,0.0,0.0
+Right CerebrumFusiform GyrusGray MatterBrodmann area 20,4626,4626.0,0,0.0,0.0
+Temporal LobeFusiform Gyrus,4332,4332.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 28,1538,1538.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 28,8906,8906.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 20,8306,8306.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 20,560,560.0,0,0.0,0.0
+Left CerebrumSub-lobarLateral VentricleCerebro-Spinal Fluid,30837,30837.0,0,0.0,0.0
+Right CerebrumSub-lobarLateral VentricleCerebro-Spinal Fluid,14849,14849.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterHippocampus,21007,21007.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterHippocampus,4862,4862.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 34,3501,3501.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 34,3197,3197.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncusGray MatterBrodmann area 34,579,579.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncusGray MatterBrodmann area 34,3847,3847.0,0,0.0,0.0
+Left CerebrumLimbic LobeUncusGray MatterAmygdala,3186,3186.0,0,0.0,0.0
+Right CerebrumLimbic LobeUncusGray MatterAmygdala,314,314.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterAmygdala,10426,10426.0,0,0.0,0.0
+Inferior Frontal Gyrus,684,684.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 47,18824,18824.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal Gyrus,11227,11227.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal Gyrus,5769,5769.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 47,13473,13473.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusWhite Matter,19539,19539.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusWhite Matter,24367,24367.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 11,10132,10132.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 11,4796,4796.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralWhite Matter,54252,54252.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralWhite Matter,54729,54729.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusWhite Matter,33704,33704.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusWhite Matter,34595,34595.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 11,5527,5527.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 11,4202,4202.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal Gyrus,7955,7955.0,0,0.0,0.0
+Right CerebrumOrbital Gyrus,9928,9928.0,0,0.0,0.0
+Right CerebrumSuperior Frontal Gyrus,790,790.0,0,0.0,0.0
+Left CerebrumOccipital LobeFusiform Gyrus,2130,2130.0,0,0.0,0.0
+Left CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 18,573,573.0,0,0.0,0.0
+Right CerebrumOccipital LobeFusiform Gyrus,10471,10471.0,0,0.0,0.0
+Right CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 18,1289,1289.0,5,5.0,0.3878975950349108
+Left CerebrumOccipital LobeFusiform GyrusWhite Matter,2580,2580.0,0,0.0,0.0
+Right CerebrumOccipital LobeFusiform GyrusWhite Matter,2755,2755.0,0,0.0,0.0
+Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 37,4871,4871.0,0,0.0,0.0
+Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 37,4354,4354.0,0,0.0,0.0
+Right CerebrumFusiform Gyrus,129,129.0,0,0.0,0.0
+Left CerebellumAnterior LobeCerebellar LingualGray Matter,853,853.0,0,0.0,0.0
+Right CerebellumAnterior LobeCerebellar LingualGray Matter,1053,1053.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 37,2380,2380.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 37,2409,2409.0,0,0.0,0.0
+Left BrainstemMidbrain,8689,8689.0,14,14.0,0.1611232592933594
+Right BrainstemMidbrain,8800,8800.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 20,3313,3313.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 20,7540,7540.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterAmygdala,4995,4995.0,0,0.0,0.0
+White Matter,3354,3354.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 38,1917,1917.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 38,5276,5276.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal Gyrus,3887,3887.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal Gyrus,4081,4081.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Temporal Gyrus,162,162.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 25,761,761.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 25,1469,1469.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Temporal Gyrus,831,831.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Frontal Gyrus,11357,11357.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusWhite Matter,29103,29103.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusWhite Matter,18142,18142.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Frontal Gyrus,405,405.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal Gyrus,5743,5743.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 25,648,648.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 11,1325,1325.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 11,2737,2737.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 25,1317,1317.0,0,0.0,0.0
+Left CerebrumOccipital LobeLingual Gyrus,2574,2574.0,0,0.0,0.0
+Lingual Gyrus,312,312.0,0,0.0,0.0
+Occipital Lobe,604,604.0,0,0.0,0.0
+Occipital LobeLingual Gyrus,4536,4536.0,0,0.0,0.0
+Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 17,1064,1064.0,0,0.0,0.0
+Inter-HemisphericOccipital LobeLingual Gyrus,4577,4577.0,0,0.0,0.0
+Right CerebrumOccipital LobeLingual Gyrus,2711,2711.0,0,0.0,0.0
+Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 17,1891,1891.0,1,1.0,0.052882072977260705
+Left CerebrumOccipital Lobe,1250,1250.0,0,0.0,0.0
+Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 18,4531,4531.0,0,0.0,0.0
+Right CerebrumOccipital Lobe,1009,1009.0,2,2.0,0.19821605550049554
+Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 18,4080,4080.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 18,2615,2615.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Occipital Gyrus,1110,1110.0,0,0.0,0.0
+Left CerebrumOccipital LobeLingual GyrusWhite Matter,17870,17870.0,0,0.0,0.0
+Right CerebrumOccipital LobeLingual GyrusWhite Matter,11587,11587.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 18,11362,11362.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Occipital GyrusWhite Matter,8619,8619.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Occipital GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Occipital Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Inferior Occipital Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumInferior Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumInferior Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeFusiform GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeGray MatterBrodmann area 35,0,0.0,0,0.0,0.0
+White MatterOptic Tract,0,0.0,0,0.0,0.0
+Gray MatterHypothalamus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 21,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 21,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSubcallosal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSubcallosal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 25,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 25,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSubcallosal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 21,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSubcallosal GyrusGray MatterBrodmann area 34,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Frontal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSubcallosal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSubcallosal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Frontal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 11,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSubcallosal GyrusGray MatterBrodmann area 11,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 17,0,0.0,0,0.0,0.0
+Right CerebrumGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 17,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Occipital GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Occipital GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Occipital Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSub-Gyral,0,0.0,0,0.0,0.0
+Right CerebrumSub-Gyral,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeSub-Gyral,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Middle Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumLingual Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSub-GyralWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeSub-GyralWhite Matter,0,0.0,0,0.0,0.0
+Left CerebellumAnterior LobeCulmen of VermisGray Matter,0,0.0,0,0.0,0.0
+Right CerebellumAnterior LobeCulmen of VermisGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeFusiform GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeParahippocampal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeFusiform GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-Gyral,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-Gyral,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralGray MatterHippocampus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterHippocampus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralGray MatterHippocampus,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralGray MatterHippocampus,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainGray MatterSubstania Nigra,0,0.0,0,0.0,0.0
+Right BrainstemMidbrainGray MatterSubstania Nigra,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainGray MatterRed Nucleus,0,0.0,0,0.0,0.0
+Right BrainstemMidbrainGray MatterRed Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 28,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeGray MatterCaudate Tail,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeCaudateGray MatterCaudate Tail,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeCaudateGray MatterCaudate Tail,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 21,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainGray MatterMammillary Body,0,0.0,0,0.0,0.0
+Right BrainstemMidbrainGray MatterMammillary Body,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarGray MatterAmygdala,0,0.0,0,0.0,0.0
+Right CerebrumWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarGray MatterAmygdala,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterOptic Tract,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThird VentricleCerebro-Spinal Fluid,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterOptic Tract,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThird VentricleCerebro-Spinal Fluid,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarGray MatterHypothalamus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarGray MatterHypothalamus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior Cingulate,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior Cingulate,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-Gyral,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-Nuclear,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarLentiform NucleusGray MatterPutamen,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 25,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 25,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarLentiform NucleusGray MatterPutamen,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-Nuclear,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-Gyral,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarGray Matter,0,0.0,0,0.0,0.0
+Temporal LobeSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-Gyral,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-Gyral,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeExtra-Nuclear,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeExtra-Nuclear,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeExtra-NuclearGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeExtra-NuclearGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumFrontal-Temporal Space,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumFrontal-Temporal Space,0,0.0,0,0.0,0.0
+Left CerebrumFrontal-Temporal SpaceInferior Frontal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeExtra-NuclearGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Occipital GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Sub-Gyral,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeLingual GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 27,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 27,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarCaudateGray MatterCaudate Tail,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarCaudateGray MatterCaudate Tail,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainThalamusGray MatterMedial Geniculum Body,0,0.0,0,0.0,0.0
+Right BrainstemMidbrainThalamusGray MatterMedial Geniculum Body,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumMidbrain,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsula,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarClaustrumGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarClaustrumGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsula,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarLentiform NucleusGray MatterLateral Globus Pallidus,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainGray MatterSubthalamic Nucleus,0,0.0,0,0.0,0.0
+Right BrainstemMidbrainGray MatterSubthalamic Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarLentiform NucleusGray MatterLateral Globus Pallidus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarLentiform NucleusGray MatterMedial Globus Pallidus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarLentiform NucleusGray MatterMedial Globus Pallidus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Right BrainstemMidbrainExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInsula,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarCaudateGray MatterCaudate Head,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarCaudateGray MatterCaudate Head,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInferior Frontal GyrusGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 24,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 24,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Right CerebrumMedial Frontal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 17,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 17,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeLingual GyrusGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Temporal GyrusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeLingual GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeWhite MatterCaudate Tail,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarCaudateGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterCaudate Tail,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarCaudateGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterCaudate Tail,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarGray MatterLateral Geniculum Body,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainGray MatterMedial Geniculum Body,0,0.0,0,0.0,0.0
+Right BrainstemMidbrainGray MatterMedial Geniculum Body,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarGray MatterLateral Geniculum Body,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarLentiform NucleusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumMidbrainExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterAnterior Commissure,0,0.0,0,0.0,0.0
+Inter-HemisphericWhite MatterAnterior Commissure,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterAnterior Commissure,0,0.0,0,0.0,0.0
+Left CerebrumFrontal-Temporal SpaceSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Inter-HemisphericWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearCerebro-Spinal Fluid,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarClaustrumWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Gray Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Occipital GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Occipital GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumGray Matter,0,0.0,0,0.0,0.0
+Middle Occipital GyrusGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericLingual Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeLingual GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeLingual GyrusGray Matter,0,0.0,0,0.0,0.0
+Middle Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray Matter,0,0.0,0,0.0,0.0
+Sub-lobarExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericOccipital LobeGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumCuneusGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericOccipital LobeCuneusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Inter-HemisphericCuneus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericOccipital LobeCuneusGray MatterBrodmann area 17,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeLingual GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumMiddle Occipital GyrusGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericOccipital LobeCuneus,0,0.0,0,0.0,0.0
+Inter-HemisphericOccipital LobeCuneusGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericOccipital LobeLingual GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumMiddle Occipital Gyrus,0,0.0,0,0.0,0.0
+Inter-HemisphericOccipital Lobe,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeInferior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeInferior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Inferior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumInferior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSub-GyralGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Culmen of Vermis,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumMiddle Temporal Gyrus,0,0.0,0,0.0,0.0
+Right CerebellumAnterior LobeCulmenGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeLingual GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeLingual GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeLingual GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeLingual GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeCerebro-Spinal FluidCaudate Tail,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right Brainstem,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left BrainstemMidbrainExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInsulaGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterVentral Posterior Lateral Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterVentral Posterior Medial Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterMammillary Body,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterMammillary Body,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterVentral Posterior Medial Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterVentral Posterior Lateral Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInsulaGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInsulaGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInsulaGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInsulaGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInsulaGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInsula,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterMedial Globus Pallidus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterLateral Globus Pallidus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterLateral Globus Pallidus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterPutamen,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterPutamen,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarCaudateCerebro-Spinal FluidCaudate Head,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarCaudateCerebro-Spinal FluidCaudate Head,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 45,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 45,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInferior Frontal GyrusGray MatterBrodmann area 47,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 46,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 46,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericFrontal Lobe,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeGray Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericSub-lobarExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterPulvinar,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterPulvinar,0,0.0,0,0.0,0.0
+Inter-HemisphericCerebro-Spinal FluidOptic Tract,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Occipital GyrusGray MatterBrodmann area 37,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Occipital GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Occipital GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParahippocampal GyrusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Inter-HemisphericSub-lobarExtra-NuclearCerebro-Spinal FluidOptic Tract,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarSuperior Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInsulaWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterMedial Dorsal Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterMedial Dorsal Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearCerebro-Spinal FluidOptic Tract,0,0.0,0,0.0,0.0
+Right CerebrumCerebro-Spinal FluidOptic Tract,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarLentiform NucleusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearCerebro-Spinal FluidOptic Tract,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterVentral Lateral Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterVentral Lateral Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumThalamusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterVentral Anterior Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterVentral Anterior Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal-Temporal SpaceInsula,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInsula,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInferior Frontal Gyrus,0,0.0,0,0.0,0.0
+Inter-HemisphericSub-lobarExtra-NuclearWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInferior Frontal GyrusGray MatterBrodmann area 45,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInferior Frontal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaGray MatterBrodmann area 45,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray MatterBrodmann area 45,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 46,0,0.0,0,0.0,0.0
+Inter-HemisphericFrontal LobeMedial Frontal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior CingulateWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior CingulateWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobePosterior CingulateWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior Cingulate,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior Cingulate,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobePosterior CingulateGray MatterBrodmann area 30,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 29,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 29,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 42,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 42,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarExtra-NuclearWhite MatterPulvinar,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterVentral Posterior Lateral Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobePrecentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobePrecentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterAnterior Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterAnterior Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Inter-HemisphericWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 44,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 44,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray MatterBrodmann area 44,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarCaudateGray MatterCaudate Body,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarCaudateGray MatterCaudate Body,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 46,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 46,0,0.0,0,0.0,0.0
+Left CerebrumMiddle Occipital Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Temporal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Inter-HemisphericLimbic LobePosterior Cingulate,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeExtra-NuclearWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeExtra-NuclearWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Inter-HemisphericLimbic LobeExtra-NuclearWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralWhite MatterCorpus Callosum,0,0.0,0,0.0,0.0
+Superior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeTransverse Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeTransverse Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarTransverse Temporal GyrusGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarTransverse Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterLateral Posterior Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterLateral Posterior Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 42,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeTransverse Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeTransverse Temporal GyrusGray MatterBrodmann area 42,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeTransverse Temporal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobePrecentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeTransverse Temporal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarPrecentral GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 13,0,0.0,0,0.0,0.0
+Left CerebrumTransverse Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobePrecentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobePrecentral GyrusGray MatterBrodmann area 43,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 43,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 43,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobePrecentral GyrusGray MatterBrodmann area 42,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobePrecentral GyrusGray MatterBrodmann area 42,0,0.0,0,0.0,0.0
+Left CerebrumPrecentral Gyrus,0,0.0,0,0.0,0.0
+Inter-HemisphericSub-lobarLateral VentricleCerebro-Spinal Fluid,0,0.0,0,0.0,0.0
+Right CerebrumPrecentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInsulaWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInsulaWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 44,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 44,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeExtra-Nuclear,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeExtra-Nuclear,0,0.0,0,0.0,0.0
+Inter-HemisphericLimbic LobeAnterior Cingulate,0,0.0,0,0.0,0.0
+Left CerebrumMiddle Frontal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Inter-HemisphericFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 10,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior CingulateGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior CingulateGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePosterior CingulateGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Left CerebrumSuperior Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeMiddle Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSuperior Temporal GyrusGray MatterBrodmann area 22,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInsulaWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInsulaGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInsulaGray MatterBrodmann area 41,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobePostcentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeInsulaWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarExtra-NuclearWhite MatterPulvinar,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeInsulaWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobePostcentral Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarInsulaGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarInsulaGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterLateral Dorsal Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterLateral Dorsal Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumPostcentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarThalamusGray MatterMidline Nucleus,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarThalamusGray MatterMidline Nucleus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 43,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 43,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSub-GyralWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 43,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSub-GyralWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal Lobe,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Left CerebrumInferior Frontal Gyrus,0,0.0,0,0.0,0.0
+Middle Frontal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Left CerebrumSuperior Frontal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeMiddle Temporal GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeMiddle Occipital GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobePrecuneus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobePrecuneus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Left CerebrumSub-lobarPosterior CingulateWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumSub-lobarPosterior CingulateWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePostcentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePostcentral GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Precentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 33,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeAnterior CingulateGray MatterBrodmann area 33,0,0.0,0,0.0,0.0
+Inter-HemisphericAnterior Cingulate,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeAnterior CingulateGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Cuneus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Superior Occipital Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSuperior Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeSuperior Occipital Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSuperior Occipital GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeSuperior Occipital GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Occipital Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Occipital Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeCuneusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeCuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 18,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecuneus,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecuneus,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Frontal LobeMiddle Temporal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSupramarginal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSupramarginal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSupramarginal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSupramarginal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeExtra-NuclearWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeInferior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeInferior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSupramarginal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSupramarginal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeInferior Parietal Lobule,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeInferior Parietal Lobule,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeInferior Parietal Lobule,0,0.0,0,0.0,0.0
+Inter-HemisphericLimbic Lobe,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeInferior Parietal Lobule,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 2,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 2,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 1,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 1,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePostcentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Inter-HemisphericSuperior Frontal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeSuperior Occipital GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePrecuneus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeCingulate Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeCingulate Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePrecuneus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeSub-GyralGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeCingulate GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeCingulate GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeSuperior Temporal Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSupramarginal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSupramarginal GyrusWhite Matter,0,0.0,0,0.0,0.0
+Supramarginal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Inferior Parietal Lobule,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 23,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeInferior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 24,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 24,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeMedial Frontal GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeMedial Frontal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeMedial Frontal Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumCuneus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeCuneusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeCuneusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Angular Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobeAngular Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobeAngular Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeAngular Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeAngular GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeAngular GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeAngular Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumTemporal LobeAngular GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumTemporal LobeAngular GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeCuneusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeCuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeAngular GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeAngular GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumOccipital LobePrecuneusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumOccipital LobePrecuneusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Parietal Lobe,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSupramarginal GyrusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumPrecuneus,0,0.0,0,0.0,0.0
+Right CerebrumParietal Lobe,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 2,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePostcentral Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePostcentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeCingulate GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeCuneus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 19,0,0.0,0,0.0,0.0
+Inter-HemisphericPrecuneus,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecuneusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePrecuneusGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeAngular GyrusGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeCingulate GyrusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeCingulate Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeCingulate Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeCingulate GyrusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSub-GyralGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeCingulate GyrusWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeCingulate GyrusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecentral GyrusGray MatterBrodmann area 9,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeCingulate Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeCingulate Gyrus,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeCingulate GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Precuneus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 39,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecuneusGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSub-GyralGray MatterBrodmann area 2,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePrecentral GyrusGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 24,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 24,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMiddle Frontal GyrusGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeSub-GyralGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 32,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 8,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSuperior Parietal Lobule,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSuperior Parietal Lobule,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSuperior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSuperior Parietal LobuleWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeInferior Parietal LobuleGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeParacentral Lobule,0,0.0,0,0.0,0.0
+Inter-HemisphericParacentral Lobule,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral Lobule,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeParacentral LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral LobuleWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParacentral LobuleGray MatterBrodmann area 31,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParacentral LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParacentral LobuleWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumLimbic LobeParacentral Lobule,0,0.0,0,0.0,0.0
+Right CerebrumLimbic LobeParacentral Lobule,0,0.0,0,0.0,0.0
+Inter-HemisphericCingulate Gyrus,0,0.0,0,0.0,0.0
+Inter-HemisphericMedial Frontal Gyrus,0,0.0,0,0.0,0.0
+Superior Parietal Lobule,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeParacentral LobuleWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecuneus,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeParacentral Lobule,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeParacentral Lobule,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeParacentral LobuleWhite Matter,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSuperior Frontal GyrusGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Right CerebrumSuperior Parietal Lobule,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSub-GyralGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSub-GyralGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeInferior Parietal LobuleGray MatterBrodmann area 40,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecuneusGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecuneusWhite Matter,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobePrecuneus,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobePrecuneusGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Left CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeParacentral LobuleGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 3,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeSub-GyralGray MatterBrodmann area 6,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeSuperior Parietal LobuleGray MatterBrodmann area 5,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumFrontal LobeMedial Frontal GyrusGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobePostcentral GyrusGray MatterBrodmann area 7,0,0.0,0,0.0,0.0
+Inter-HemisphericPostcentral Gyrus,0,0.0,0,0.0,0.0
+Left CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
+Right CerebrumParietal LobeParacentral LobuleGray MatterBrodmann area 4,0,0.0,0,0.0,0.0
