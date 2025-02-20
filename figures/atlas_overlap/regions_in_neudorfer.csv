@@ -1,52 +1,52 @@
 atlas_label,n_label_voxels,label_volume [mm³],n_lesion_voxels,lesion_volume [mm³],lesion_volume [percent]
-both_RL_BCK_not in atlas,69354857,8669357.125,305,38.125,0.000439767325885
-right_R_AC_anterior commissure,2113,264.125,0,0,0
-left_L_AC_anterior commissure,2082,260.25,12,1.5,0.576368876080692
-right_R_dB_diagonal band of Broca,401,50.125,0,0,0
-left_L_dB_diagonal band of Broca,326,40.75,0,0,0
-right_R_FX_fornix,1869,233.625,0,0,0
-left_L_FX_fornix,1842,230.25,196,24.5,10.6406080347448
-right_R_MT_mammillothalamic tract,533,66.625,0,0,0
-left_L_MT_mammillothalamic tract,435,54.375,1,0.125,0.229885057471264
-right_R_MM_mammillary bodies,861,107.625,0,0,0
-left_L_MM_mammillary bodies,918,114.75,0,0,0
-right_R_STN_subthalamic nucleus,1050,131.25,0,0,0
-left_L_STN_subthalamic nucleus,1020,127.5,0,0,0
-right_R_SN_substantia nigra,7447,930.875,0,0,0
-left_L_SN_substantia nigra,6795,849.375,17,2.125,0.25018395879323
-right_R_RN_red nucleus,2149,268.625,0,0,0
-left_L_RN_red nucleus,2314,289.25,4,0.5,0.17286084701815
-right_R_MPO_medial preoptic nucleus,88,11,0,0,0
-left_L_MPO_medial preoptic nucleus,101,12.625,0,0,0
-right_R_Pa_paraventricular nucleus,435,54.375,0,0,0
-left_L_Pa_paraventricular nucleus,429,53.625,0,0,0
-right_R_DPEH_dorsal periventricular hypothalamic nucleus,30,3.75,0,0,0
-left_L_DPEH_dorsal periventricular hypothalamic nucleus,41,5.125,0,0,0
-right_R_LH_lateral hypothalamus,1928,241,0,0,0
-left_L_LH_lateral hypothalamus,1790,223.75,54,6.75,3.01675977653631
-right_R_VM_ventromedial hypothalamus,357,44.625,0,0,0
-left_L_VM_ventromedial hypothalamus,381,47.625,0,0,0
-right_R_AN_arcuate hypothalamic nucleus,314,39.25,0,0,0
-left_L_AN_arcuate hypothalamic nucleus,325,40.625,0,0,0
-right_R_Pe_periventricular hypothalamic nucleus,201,25.125,0,0,0
-left_L_Pe_periventricular hypothalamic nucleus,223,27.875,0,0,0
-right_R_BNST_bed nucleus of the stria terminalis,1178,147.25,0,0,0
-left_L_BNST_bed nucleus of the stria terminalis,1348,168.5,76,9.5,5.6379821958457
-right_R_NBM_nucleus basalis of Meynert,688,86,0,0,0
-left_L_NBM_nucleus basalis of Meynert,596,74.5,0,0,0
-right_R_DM_dorsomedial hypothalamic nucleus,124,15.5,0,0,0
-left_L_DM_dorsomedial hypothalamic nucleus,131,16.375,0,0,0
-right_R_ZI_zona incerta,686,85.75,0,0,0
-left_L_ZI_zona incerta,778,97.25,7,0.875,0.89974293059126
-right_R_ITP_inferior thalamic peduncle,449,56.125,0,0,0
-left_L_ITP_inferior thalamic peduncle,450,56.25,0,0,0
-right_R_SO_supraoptic hypothalamic nucleus,168,21,0,0,0
-left_L_SO_supraoptic hypothalamic nucleus,190,23.75,0,0,0
-right_R_SC_suprachiasmatic hypothalamic nucleus,54,6.75,0,0,0
-left_L_SC_suprachiasmatic hypothalamic nucleus,57,7.125,0,0,0
-right_R_TM_tuberomammillary hypothalamic nucleus,256,32,0,0,0
-left_L_TM_tuberomammillary hypothalamic nucleus,268,33.5,0,0,0
-right_R_PH_posterior hypotahalamic nucleus,274,34.25,0,0,0
-left_L_PH_posterior hypotahalamic nucleus,283,35.375,0,0,0
-right_R_AHA_anterior hypothalamic area,382,47.75,0,0,0
-left_L_AHA_anterior hypothalamic area,297,37.125,0,0,0
+both_RL_BCK_not in atlas,69354857,8669357.125,305,38.125,0.00043976732588461685
+right_R_AC_anterior commissure,2113,264.125,0,0.0,0.0
+left_L_AC_anterior commissure,2082,260.25,12,1.5,0.5763688760806917
+right_R_dB_diagonal band of Broca,401,50.125,0,0.0,0.0
+left_L_dB_diagonal band of Broca,326,40.75,0,0.0,0.0
+right_R_FX_fornix,1869,233.625,0,0.0,0.0
+left_L_FX_fornix,1842,230.25,196,24.5,10.640608034744844
+right_R_MT_mammillothalamic tract,533,66.625,0,0.0,0.0
+left_L_MT_mammillothalamic tract,435,54.375,1,0.125,0.22988505747126436
+right_R_MM_mammillary bodies,861,107.625,0,0.0,0.0
+left_L_MM_mammillary bodies,918,114.75,0,0.0,0.0
+right_R_STN_subthalamic nucleus,1050,131.25,0,0.0,0.0
+left_L_STN_subthalamic nucleus,1020,127.5,0,0.0,0.0
+right_R_SN_substantia nigra,7447,930.875,0,0.0,0.0
+left_L_SN_substantia nigra,6795,849.375,17,2.125,0.2501839587932303
+right_R_RN_red nucleus,2149,268.625,0,0.0,0.0
+left_L_RN_red nucleus,2314,289.25,4,0.5,0.17286084701815038
+right_R_MPO_medial preoptic nucleus,88,11.0,0,0.0,0.0
+left_L_MPO_medial preoptic nucleus,101,12.625,0,0.0,0.0
+right_R_Pa_paraventricular nucleus,435,54.375,0,0.0,0.0
+left_L_Pa_paraventricular nucleus,429,53.625,0,0.0,0.0
+right_R_DPEH_dorsal periventricular hypothalamic nucleus,30,3.75,0,0.0,0.0
+left_L_DPEH_dorsal periventricular hypothalamic nucleus,41,5.125,0,0.0,0.0
+right_R_LH_lateral hypothalamus,1928,241.0,0,0.0,0.0
+left_L_LH_lateral hypothalamus,1790,223.75,54,6.75,3.016759776536313
+right_R_VM_ventromedial hypothalamus,357,44.625,0,0.0,0.0
+left_L_VM_ventromedial hypothalamus,381,47.625,0,0.0,0.0
+right_R_AN_arcuate hypothalamic nucleus,314,39.25,0,0.0,0.0
+left_L_AN_arcuate hypothalamic nucleus,325,40.625,0,0.0,0.0
+right_R_Pe_periventricular hypothalamic nucleus,201,25.125,0,0.0,0.0
+left_L_Pe_periventricular hypothalamic nucleus,223,27.875,0,0.0,0.0
+right_R_BNST_bed nucleus of the stria terminalis,1178,147.25,0,0.0,0.0
+left_L_BNST_bed nucleus of the stria terminalis,1348,168.5,76,9.5,5.637982195845697
+right_R_NBM_nucleus basalis of Meynert,688,86.0,0,0.0,0.0
+left_L_NBM_nucleus basalis of Meynert,596,74.5,0,0.0,0.0
+right_R_DM_dorsomedial hypothalamic nucleus,124,15.5,0,0.0,0.0
+left_L_DM_dorsomedial hypothalamic nucleus,131,16.375,0,0.0,0.0
+right_R_ZI_zona incerta,686,85.75,0,0.0,0.0
+left_L_ZI_zona incerta,778,97.25,7,0.875,0.8997429305912596
+right_R_ITP_inferior thalamic peduncle,449,56.125,0,0.0,0.0
+left_L_ITP_inferior thalamic peduncle,450,56.25,0,0.0,0.0
+right_R_SO_supraoptic hypothalamic nucleus,168,21.0,0,0.0,0.0
+left_L_SO_supraoptic hypothalamic nucleus,190,23.75,0,0.0,0.0
+right_R_SC_suprachiasmatic hypothalamic nucleus,54,6.75,0,0.0,0.0
+left_L_SC_suprachiasmatic hypothalamic nucleus,57,7.125,0,0.0,0.0
+right_R_TM_tuberomammillary hypothalamic nucleus,256,32.0,0,0.0,0.0
+left_L_TM_tuberomammillary hypothalamic nucleus,268,33.5,0,0.0,0.0
+right_R_PH_posterior hypotahalamic nucleus,274,34.25,0,0.0,0.0
+left_L_PH_posterior hypotahalamic nucleus,283,35.375,0,0.0,0.0
+right_R_AHA_anterior hypothalamic area,382,47.75,0,0.0,0.0
+left_L_AHA_anterior hypothalamic area,297,37.125,0,0.0,0.0
