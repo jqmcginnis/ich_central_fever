@@ -18,6 +18,38 @@ def clean_label(label_name):
     cleaned = label_name.replace("*.", "").replace(".*", "").replace("*", "")
     return cleaned.strip()
 
+def load_brainstem_labels():
+
+    atlas_labels = list(range(0, 24))
+    atlas_labels_names = {
+            0: "Not_in_Atlas",
+            1: "CSTL_Atlas",
+            2: "CSTR_Atlas",
+            3: "FPTL_Atlas",
+            4: "FPTR_Atlas",
+            5: "ICPMCL_Atlas",
+            6: "ICPMCR_Atlas",
+            7: "ICPVCL_Atlas",
+            8: "ICPVCR_Atlas",
+            9: "LLL_Atlas",
+            10: "LLR_Atlas",
+            11: "MCP_Atlas",
+            12: "MLL_Atlas",
+            13: "MLR_Atlas",
+            14: "POTPTL_Atlas",
+            15: "POTPTR_Atlas",
+            16: "SCPCRL_Atlas",
+            17: "SCPCRR_Atlas",
+            18: "SCPCTL_Atlas",
+            19: "SCPCTR_Atlas",
+            20: "SCPSCL_Atlas",
+            21: "SCPSCR_Atlas",
+            22: "STTL_Atlas",
+            23: "STTR_Atlas"
+        }
+
+    return atlas_labels, atlas_labels_names
+
 
 def load_tailrach_atlas_labels(csv_file="tailrach_atlas_labels.csv"):
     """
@@ -48,7 +80,6 @@ def load_tailrach_atlas_labels(csv_file="tailrach_atlas_labels.csv"):
     return atlas_labels, atlas_labels_names
 
     
-    return atlas_labels, atlas_labels_names
 
 def load_neudorfer_atlas_labels(csv_file='neudorfer_atlas_labels.csv'):
     """
@@ -114,6 +145,9 @@ def compute_stats_atlas(lesion_mask_path, warped_atlas_mask_path, output_file, a
     elif atlas_type == "tailrach":
         atlas_labels, atlas_labels_names = load_tailrach_atlas_labels()
 
+    elif atlas_type == "brainstem":
+        atlas_labels, atlas_labels_names = load_brainstem_labels()
+
     else:
         raise Exception("Something went wrong!")
     
@@ -162,5 +196,9 @@ if __name__ == "__main__":
     compute_stats_atlas(lesion_mask_path="registration/threshZresults_testcentral_fever_binarized_space-MNI152bT1w0x5mm.nii.gz", 
                         warped_atlas_mask_path="neudorfer_atlas_labels_0.5mm.nii.gz", 
                         output_file="regions_in_neudorfer.csv", atlas_type='neudorfer')
+    
+    compute_stats_atlas(lesion_mask_path="registration/threshZresults_testcentral_fever_binarized_space-MNI152bT1w0x5mm.nii.gz", 
+                        warped_atlas_mask_path="brainstem_atlas_combined_threshold_2e-02.nii.gz", 
+                        output_file="regions_in_brainstem.csv", atlas_type='brainstem')
 
 
