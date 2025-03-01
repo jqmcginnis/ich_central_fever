@@ -46,7 +46,12 @@ def plot_slice(ax, template_slice, mask_slice, orientation, slice_index):
     ax.imshow(np.rot90(masked_overlay), cmap=red_cmap, interpolation='none')
     
     # Optionally, set a title for each subplot (if desired, you could include slice number)
-    # ax.set_title(f'{orientation.capitalize()} {slice_index}', fontsize=10)
+    if orientation == "axial":
+        ax.set_title(f'z =  {slice_index}', fontsize=12)
+    elif orientation == "sagittal":
+        ax.set_title(f'x =  {slice_index}', fontsize=12)
+    else:
+        ax.set_title(f'y =  {slice_index}', fontsize=12)
     ax.axis('off')
 
 def main():

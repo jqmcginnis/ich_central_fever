@@ -33,7 +33,7 @@ def plot_slice(ax, template_slice, mask_slice, orientation, slice_index):
     Plot a single slice in the provided axis.
     The template is plotted in grayscale, and only non-zero mask voxels are overlaid in red.
     """
-    # Display the template slice in grayscale.
+    # Display the template slice in grayscale.,
     ax.imshow(np.rot90(template_slice), cmap='gray')
     
     # Mask zero voxels in mask_slice, so only non-zero values appear.
@@ -45,8 +45,13 @@ def plot_slice(ax, template_slice, mask_slice, orientation, slice_index):
     # Overlay the mask slice (using no interpolation to preserve pixel boundaries)
     ax.imshow(np.rot90(masked_overlay), cmap=red_cmap, interpolation='none')
     
-    # Optionally, set a title for each subplot (if desired, you could include slice number)
-    # ax.set_title(f'{orientation.capitalize()} {slice_index}', fontsize=10)
+    if orientation == "axial":
+        ax.set_title(f'z =  {slice_index}', fontsize=12)
+    elif orientation == "sagittal":
+        ax.set_title(f'x =  {slice_index}', fontsize=12)
+    else:
+        ax.set_title(f'y =  {slice_index}', fontsize=12)
+
     ax.axis('off')
 
 def main():
