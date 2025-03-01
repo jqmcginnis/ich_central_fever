@@ -197,7 +197,7 @@ if __name__ == "__main__":
                         warped_atlas_mask_path="neudorfer_atlas_labels_0.5mm.nii.gz", 
                         output_file="regions_in_neudorfer.csv", atlas_type='neudorfer')
     
-    compute_stats_atlas(lesion_mask_path="registration/threshZresults_testcentral_fever_binarized_space-MNI152bT1w0x5mm.nii.gz", 
+    compute_stats_atlas(lesion_mask_path="registration/threshZresults_testcentral_fever_binarized_space-MNI152T1w1mm.nii.gz", 
                         warped_atlas_mask_path="brainstem_atlas_combined_threshold_2e-02.nii.gz", 
                         output_file="regions_in_brainstem.csv", atlas_type='brainstem')
 
