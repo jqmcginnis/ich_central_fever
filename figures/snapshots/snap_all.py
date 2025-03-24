@@ -4,6 +4,7 @@ import nibabel as nib
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import colors
+from nibabel.affines import apply_affine
 
 def load_nifti(filepath):
     """Load a NIfTI file and return the image data."""
@@ -28,12 +29,12 @@ def extract_slice(data, orientation, slice_index):
         raise ValueError("Orientation must be 'sagittal', 'coronal', or 'axial'.")
     return slice_data
 
-def plot_slice(ax, template_slice, mask_slice, orientation, slice_index):
+def plot_slice(ax, template_slice, mask_slice, orientation, slice_index, affine):
     """
     Plot a single slice in the provided axis.
     The template is plotted in grayscale, and only non-zero mask voxels are overlaid in red.
     """
-    # Display the template slice in grayscale.
+    # Display the template slice in grayscale.,
     ax.imshow(np.rot90(template_slice), cmap='gray')
     
     # Mask zero voxels in mask_slice, so only non-zero values appear.
@@ -45,13 +46,18 @@ def plot_slice(ax, template_slice, mask_slice, orientation, slice_index):
     # Overlay the mask slice (using no interpolation to preserve pixel boundaries)
     ax.imshow(np.rot90(masked_overlay), cmap=red_cmap, interpolation='none')
     
-    # Optionally, set a title for each subplot (if desired, you could include slice number)
     if orientation == "axial":
-        ax.set_title(f'z =  {slice_index}', fontsize=12)
+        coords = apply_affine(affine, [0, 0, slice_index])
+        ax.set_title(f'z =  {int(coords[2],)}', fontsize=12)
     elif orientation == "sagittal":
-        ax.set_title(f'x =  {slice_index}', fontsize=12)
+        coords = apply_affine(affine, [slice_index, 0, 0])
+        ax.set_title(f'x =  {int(coords[0])}', fontsize=12)
     else:
-        ax.set_title(f'y =  {slice_index}', fontsize=12)
+        coords = apply_affine(affine, [0, slice_index, 0])
+        ax.set_title(f'y =  {int(coords[1])}', fontsize=12)
+
+    print(affine)
+    print(coords)
     ax.axis('off')
 
 def main():
@@ -66,6 +72,7 @@ def main():
     # Load template and mask data.
     template_data = load_nifti(args.template)
     mask_data = load_nifti(args.mask)
+    affine = nib.load(args.template).affine
 
     # Define slice indices for each orientation.
     axial_indices = [62, 63, 67, 68]
@@ -78,13 +85,13 @@ def main():
     for idx, slice_index in enumerate(axial_indices):
         template_slice = extract_slice(template_data, 'axial', slice_index)
         mask_slice = extract_slice(mask_data, 'axial', slice_index)
-        plot_slice(axes[0, idx], template_slice, mask_slice, 'axial', slice_index)
+        plot_slice(axes[0, idx], template_slice, mask_slice, 'axial', slice_index, affine)
 
     # Plot sagittal slices in the second row.
     for idx, slice_index in enumerate(sagittal_indices):
         template_slice = extract_slice(template_data, 'sagittal', slice_index)
         mask_slice = extract_slice(mask_data, 'sagittal', slice_index)
-        plot_slice(axes[1, idx], template_slice, mask_slice, 'sagittal', slice_index)
+        plot_slice(axes[1, idx], template_slice, mask_slice, 'sagittal', slice_index, affine)
 
     # Set a global title for the figure.
     fig.suptitle("Results of VLSM Analysis", fontsize=16)
